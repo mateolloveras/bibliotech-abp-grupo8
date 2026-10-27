@@ -6,6 +6,7 @@ Proyecto ABP que integra **Testeo de Software** y **Práctica Profesionalizante 
 **Instituto Superior Politécnico Córdoba (ISPC)** · Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial · Año 2026 · **Grupo N° 8**
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateolloveras/bibliotech-abp-grupo8/blob/main/notebooks/BiblioTech_MVP.ipynb)
+[![Pruebas automatizadas](https://github.com/mateolloveras/bibliotech-abp-grupo8/actions/workflows/tests.yml/badge.svg)](https://github.com/mateolloveras/bibliotech-abp-grupo8/actions/workflows/tests.yml)
 
 | Integrante | Rol en el proyecto |
 |---|---|
@@ -48,7 +49,7 @@ La gestión manual de préstamos de material bibliográfico genera demoras de at
 | Casos OK tras el re-testing | 23 de 24 (**95,8 %**) |
 | Criterio de salida (≥ 85 % OK) | ✅ Cumplido |
 | Defectos detectados / cerrados / abiertos | 4 / 3 / 1 |
-| Tests automatizados en el repositorio | 36 (`python -m unittest discover -s tests -t .`) |
+| Tests automatizados en el repositorio | 36, ejecutados en cada push con GitHub Actions |
 
 | Defecto | Caso | Severidad | Prioridad | Estado |
 |---|---|---|---|---|

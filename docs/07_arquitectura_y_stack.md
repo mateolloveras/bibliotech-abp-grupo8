@@ -67,7 +67,7 @@ El orden de las validaciones no es casual: primero las reglas duras del negocio 
 | Machine Learning | Scikit-Learn (`Pipeline`, `ColumnTransformer`, `SimpleImputer`, `OneHotEncoder`, `StandardScaler`, `LogisticRegression`) | Encapsula el preprocesamiento junto con el clasificador, lo que garantiza RNF3 (confiabilidad) y evita el error del BUG-04. |
 | Persistencia | Archivos CSV versionados en el repositorio | **Cambio justificado:** descartamos una base de datos relacional en esta etapa porque agregaba infraestructura sin aportar al objetivo del MVP. Es una limitación conocida: los datos cargados durante la sesión no persisten. |
 | Pruebas | `unittest` (librería estándar) | Permite correr la suite tanto en Colab como en local sin instalar dependencias extra. |
-| Control de versiones e integración continua | Git + GitHub (workflow de GitHub Actions incluido) | Trazabilidad del código (RNF4) y ejecución de los 36 tests, en local con un comando y en GitHub Actions cuando el workflow está habilitado. |
+| Control de versiones e integración continua | Git + GitHub + GitHub Actions | Trazabilidad del código (RNF4) y ejecución automática de los 36 tests en cada push. |
 
 ## 7.3. Estructura del repositorio
 

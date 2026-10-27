@@ -88,7 +88,7 @@ Si piden ver el código, el recorrido corto es:
 2. `src/negocio.py` — función `validar_dias_prestamo()` (BUG-01 corregido) y `eliminar_usuario()` (BUG-03 abierto).
 3. `src/modelo.py` — el `Pipeline` con `SimpleImputer` y `OneHotEncoder` (BUG-04 corregido).
 4. `tests/test_negocio.py` — el caso CF-06 marcado como `expectedFailure`.
-5. La suite de tests corriendo: `python -m unittest discover -s tests -t .` (o la pestaña **Actions** de GitHub si el workflow está habilitado).
+5. La pestaña **Actions** de GitHub, con los 36 tests corriendo automáticamente en cada push.
 
 ## 8.5. Frases para no decir
 

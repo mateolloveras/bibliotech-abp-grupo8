@@ -93,7 +93,7 @@ Las técnicas de caja negra aplicadas son **partición en clases de equivalencia
 |---|---|
 | Google Colab + ipywidgets | Entorno de ejecución interactiva del flujo datos → modelo → interfaz. |
 | `unittest` (librería estándar de Python) | Celdas y archivos de verificación automática de los casos borde ([`tests/`](../tests)). |
-| Git + GitHub | Versionado del código, del notebook y de los datasets. El repositorio incluye el workflow `.github/workflows/tests.yml` para ejecutar la suite en cada push. |
+| Git + GitHub Actions | Versionado del código, del notebook y de los datasets, y ejecución automática de la suite en cada push (`.github/workflows/tests.yml`). |
 | Trello y Google Sheets | Seguimiento de tareas, matriz de ejecución de los 24 casos y ciclo de vida de los bugs. |
 
 ## 3.5. Métricas de testing alcanzadas
