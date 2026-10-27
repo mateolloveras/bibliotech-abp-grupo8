@@ -1,0 +1,206 @@
+ID_Ejemplar,Titulo,Autor,ISBN,Categoria_Libro,Sede,Stock,Fecha_Publicacion
+L-001,Introducción a la Programación en Python,G. Bonetto,978-850-4500-1,Informática,Río Tercero,3,03/04/2008
+L-002,Estructuras de Datos y Algoritmos,T. Arellano,978-296-4235-2,Informática,Cosquín,5,07/02/2023
+L-003,Bases de Datos Relacionales,J. Domínguez,978-572-9638-3,Informática,Cosquín,3,01/03/2019
+L-004,Fundamentos de Redes de Computadoras,R. Castellanos,978-658-3237-4,Informática,Río Tercero,3,13/06/2011
+L-005,Aprendizaje Automático Aplicado,C. Benítez,978-780-1380-5,Informática,Córdoba Capital,2,05/07/2018
+L-006,Testeo de Software: Teoría y Práctica,E. Salvatierra,978-378-7136-6,Informática,Cosquín,2,02/05/2023
+L-007,Arquitectura de Computadoras,D. Roldán,978-644-8944-7,Informática,Cosquín,2,18/07/2022
+L-008,Ingeniería de Software,A. Gutiérrez,978-593-1492-8,Informática,Villa María,2,26/05/2017
+L-009,Ciencia de Datos con Pandas,E. Salvatierra,978-167-4045-9,Informática,Cosquín,4,21/09/2013
+L-010,Sistemas Operativos Modernos,T. Arellano,978-438-7203-0,Informática,Cosquín,2,04/11/2014
+L-011,Historia Argentina Contemporánea,T. Arellano,978-605-9647-1,Ciencias Sociales,Córdoba Capital,1,22/11/2008
+L-012,Introducción a la Sociología,N. Figueroa,978-843-6518-2,Ciencias Sociales,Villa María,5,03/01/2016
+L-013,Metodología de la Investigación Social,C. Benítez,978-397-7474-3,Ciencias Sociales,Río Tercero,1,07/12/2012
+L-014,Psicología del Aprendizaje,E. Salvatierra,978-752-1671-4,Ciencias Sociales,Cosquín,1,19/11/2011
+L-015,Antropología Cultural,R. Castellanos,978-230-9137-5,Ciencias Sociales,Cosquín,4,04/06/2023
+L-016,Educación y Sociedad,N. Figueroa,978-483-7299-6,Ciencias Sociales,Córdoba Capital,4,07/05/2019
+L-017,Comunicación y Cultura,V. Quiroga,978-361-8804-7,Ciencias Sociales,Villa María,1,14/02/2021
+L-018,Filosofía Política,E. Salvatierra,978-132-6412-8,Ciencias Sociales,Río Tercero,2,28/03/2020
+L-019,Álgebra Lineal,R. Castellanos,978-694-3954-9,Matemática,Cosquín,2,06/11/2009
+L-020,Análisis Matemático I,D. Roldán,978-633-3002-0,Matemática,Cosquín,4,28/11/2017
+L-021,Probabilidad y Estadística,H. Mansilla,978-935-1296-1,Matemática,Cosquín,3,16/06/2022
+L-022,Matemática Discreta,N. Figueroa,978-303-7155-2,Matemática,Cosquín,1,10/02/2022
+L-023,Cálculo Numérico,N. Figueroa,978-703-8093-3,Matemática,Río Tercero,1,12/11/2014
+L-024,Cuentos Completos de Cortázar,H. Mansilla,978-237-8447-4,Literatura,Río Tercero,5,22/04/2023
+L-025,El Aleph,M. Pereyra,978-307-2867-5,Literatura,Cosquín,2,24/06/2012
+L-026,Literatura Latinoamericana del Siglo XX,M. Pereyra,978-145-9610-6,Literatura,Cosquín,2,23/06/2024
+L-027,Poesía Argentina Reunida,A. Gutiérrez,978-219-1199-7,Literatura,Córdoba Capital,3,24/08/2016
+L-028,Taller de Escritura Creativa,D. Roldán,978-985-8424-8,Literatura,Villa María,4,26/10/2011
+L-029,Administración de Organizaciones,S. Villalba,978-196-4003-9,Administración,Río Tercero,1,10/03/2017
+L-030,Contabilidad Básica,T. Arellano,978-953-3754-0,Administración,Cosquín,4,17/04/2020
+L-031,Gestión de Proyectos,M. Pereyra,978-193-6238-1,Administración,Villa María,3,11/05/2012
+L-032,Marketing Digital,P. Arrieta,978-218-9987-2,Administración,Cosquín,4,09/05/2011
+L-033,Economía para no Economistas,D. Roldán,978-545-3902-3,Administración,Córdoba Capital,3,28/09/2017
+L-034,English for Information Technology,D. Roldán,978-838-9207-4,Idiomas,Río Tercero,1,13/02/2017
+L-035,Gramática Inglesa Avanzada,G. Bonetto,978-707-4991-5,Idiomas,Río Tercero,5,10/04/2017
+L-036,Portugués Básico,G. Bonetto,978-170-7571-6,Idiomas,Río Tercero,4,19/04/2012
+L-037,Inglés Técnico para Ingeniería,J. Domínguez,978-777-1979-7,Idiomas,Córdoba Capital,1,28/09/2010
+L-038,Biología General,D. Roldán,978-390-6356-8,Ciencias Naturales,Córdoba Capital,2,02/02/2021
+L-039,Química Orgánica,N. Figueroa,978-182-9110-9,Ciencias Naturales,Córdoba Capital,4,22/02/2022
+L-040,Física I,S. Villalba,978-985-5582-0,Ciencias Naturales,Villa María,1,09/03/2010
+L-041,Ecología y Ambiente,A. Gutiérrez,978-497-9810-1,Ciencias Naturales,Córdoba Capital,5,03/01/2022
+L-042,Manual de Estudio Universitario,C. Benítez,978-416-3007-2,General,Córdoba Capital,3,08/11/2023
+L-043,Técnicas de Redacción Académica,C. Benítez,978-419-6386-3,General,Villa María,2,26/03/2016
+L-044,Diccionario Enciclopédico Ilustrado,P. Arrieta,978-169-9788-4,General,Villa María,1,21/06/2022
+L-045,Introducción a la Programación en Python,M. Pereyra,978-743-4519-5,Informática,Córdoba Capital,5,27/03/2019
+L-046,Estructuras de Datos y Algoritmos,R. Castellanos,978-581-3076-6,Informática,Córdoba Capital,4,18/08/2016
+L-047,Bases de Datos Relacionales,C. Benítez,978-736-3422-7,Informática,Cosquín,4,05/12/2009
+L-048,Fundamentos de Redes de Computadoras,E. Salvatierra,978-271-4668-8,Informática,Córdoba Capital,5,04/02/2022
+L-049,Aprendizaje Automático Aplicado,L. Arismendi,978-332-5133-9,Informática,Córdoba Capital,2,25/07/2010
+L-050,Testeo de Software: Teoría y Práctica,G. Bonetto,978-179-2884-0,Informática,Cosquín,5,09/08/2023
+L-051,Arquitectura de Computadoras,E. Salvatierra,978-443-3413-1,Informática,Cosquín,5,22/03/2010
+L-052,Ingeniería de Software,V. Quiroga,978-563-5563-2,Informática,Córdoba Capital,1,05/07/2021
+L-053,Ciencia de Datos con Pandas,N. Figueroa,978-914-1191-3,Informática,Córdoba Capital,2,15/03/2021
+L-054,Sistemas Operativos Modernos,T. Arellano,978-941-1839-4,Informática,Villa María,2,05/08/2011
+L-055,Historia Argentina Contemporánea,C. Benítez,978-647-2281-5,Ciencias Sociales,Villa María,3,25/10/2019
+L-056,Introducción a la Sociología,A. Gutiérrez,978-291-7748-6,Ciencias Sociales,Villa María,4,20/04/2013
+L-057,Metodología de la Investigación Social,E. Salvatierra,978-758-4391-7,Ciencias Sociales,Cosquín,4,13/04/2022
+L-058,Psicología del Aprendizaje,G. Bonetto,978-810-4168-8,Ciencias Sociales,Cosquín,1,03/10/2019
+L-059,Antropología Cultural,M. Pereyra,978-646-1662-9,Ciencias Sociales,Río Tercero,5,25/11/2017
+L-060,Educación y Sociedad,D. Roldán,978-637-2602-0,Ciencias Sociales,Cosquín,1,01/09/2016
+L-061,Comunicación y Cultura - Tomo 2,R. Castellanos,978-305-7847-1,Ciencias Sociales,Cosquín,1,12/09/2021
+L-062,Filosofía Política - Tomo 2,T. Arellano,978-738-4523-2,Ciencias Sociales,Villa María,3,08/07/2009
+L-063,Álgebra Lineal - Tomo 2,P. Arrieta,978-933-5335-3,Matemática,Córdoba Capital,3,24/01/2010
+L-064,Análisis Matemático I - Tomo 2,L. Arismendi,978-935-9284-4,Matemática,Río Tercero,1,07/11/2016
+L-065,Probabilidad y Estadística - Tomo 2,D. Roldán,978-572-5086-5,Matemática,Córdoba Capital,4,25/02/2024
+L-066,Matemática Discreta - Tomo 2,G. Bonetto,978-856-1224-6,Matemática,Cosquín,3,05/04/2009
+L-067,Cálculo Numérico - Tomo 2,R. Castellanos,978-350-8562-7,Matemática,Villa María,5,27/08/2023
+L-068,Cuentos Completos de Cortázar - Tomo 2,C. Benítez,978-769-4548-8,Literatura,Cosquín,3,05/10/2014
+L-069,El Aleph - Tomo 2,D. Roldán,978-173-9912-9,Literatura,Cosquín,1,11/08/2014
+L-070,Literatura Latinoamericana del Siglo XX - Tomo 2,V. Quiroga,978-682-6299-0,Literatura,Córdoba Capital,4,22/06/2021
+L-071,Poesía Argentina Reunida - Tomo 2,A. Gutiérrez,978-495-7183-1,Literatura,Río Tercero,4,24/06/2021
+L-072,Taller de Escritura Creativa - Tomo 2,E. Salvatierra,978-468-7987-2,Literatura,Córdoba Capital,2,14/01/2009
+L-073,Administración de Organizaciones - Tomo 2,L. Arismendi,978-787-7341-3,Administración,Villa María,3,24/06/2020
+L-074,Contabilidad Básica - Tomo 2,S. Villalba,978-895-1191-4,Administración,Río Tercero,5,09/09/2023
+L-075,Gestión de Proyectos - Tomo 2,J. Domínguez,978-325-9052-5,Administración,Córdoba Capital,2,09/09/2015
+L-076,Marketing Digital - Tomo 2,S. Villalba,978-705-1699-6,Administración,Río Tercero,1,13/07/2024
+L-077,Economía para no Economistas - Tomo 2,N. Figueroa,978-128-1923-7,Administración,Villa María,3,26/11/2008
+L-078,English for Information Technology - Tomo 2,D. Roldán,978-492-1877-8,Idiomas,Río Tercero,3,23/08/2008
+L-079,Gramática Inglesa Avanzada - Tomo 2,S. Villalba,978-994-2386-9,Idiomas,Villa María,4,27/02/2019
+L-080,Portugués Básico - Tomo 2,D. Roldán,978-173-6504-0,Idiomas,Córdoba Capital,4,12/12/2012
+L-081,Inglés Técnico para Ingeniería - Tomo 2,S. Villalba,978-661-7176-1,Idiomas,Cosquín,1,18/01/2016
+L-082,Biología General - Tomo 2,R. Castellanos,978-959-7069-2,Ciencias Naturales,Río Tercero,4,03/06/2019
+L-083,Química Orgánica - Tomo 2,R. Castellanos,978-433-3270-3,Ciencias Naturales,Cosquín,4,23/02/2012
+L-084,Física I - Tomo 2,P. Arrieta,978-322-8460-4,Ciencias Naturales,Cosquín,2,18/08/2017
+L-085,Ecología y Ambiente - Tomo 2,G. Bonetto,978-724-4581-5,Ciencias Naturales,Villa María,1,25/06/2016
+L-086,Manual de Estudio Universitario - Tomo 2,M. Pereyra,978-956-1763-6,General,Villa María,3,18/03/2024
+L-087,Técnicas de Redacción Académica - Tomo 2,S. Villalba,978-778-2118-7,General,Río Tercero,5,25/01/2022
+L-088,Diccionario Enciclopédico Ilustrado - Tomo 2,E. Salvatierra,978-600-9579-8,General,Córdoba Capital,1,20/07/2013
+L-089,Introducción a la Programación en Python - Tomo 2,P. Arrieta,978-145-2871-9,Informática,Río Tercero,3,27/06/2012
+L-090,Estructuras de Datos y Algoritmos - Tomo 2,E. Salvatierra,978-620-5377-0,Informática,Cosquín,3,22/09/2011
+L-091,Bases de Datos Relacionales - Tomo 2,G. Bonetto,978-604-5034-1,Informática,Río Tercero,4,21/11/2017
+L-092,Fundamentos de Redes de Computadoras - Tomo 2,D. Roldán,978-433-8642-2,Informática,Córdoba Capital,5,27/08/2017
+L-093,Aprendizaje Automático Aplicado - Tomo 2,J. Domínguez,978-841-9264-3,Informática,Cosquín,5,23/06/2012
+L-094,Testeo de Software: Teoría y Práctica - Tomo 2,A. Gutiérrez,978-696-5466-4,Informática,Córdoba Capital,3,15/07/2014
+L-095,Arquitectura de Computadoras - Tomo 2,S. Villalba,978-767-1554-5,Informática,Villa María,2,28/10/2011
+L-096,Ingeniería de Software - Tomo 2,R. Castellanos,978-287-7986-6,Informática,Villa María,3,25/03/2013
+L-097,Ciencia de Datos con Pandas - Tomo 2,L. Arismendi,978-266-7485-7,Informática,Villa María,3,11/11/2021
+L-098,Sistemas Operativos Modernos - Tomo 2,T. Arellano,978-918-9933-8,Informática,Cosquín,3,26/11/2024
+L-099,Historia Argentina Contemporánea - Tomo 2,R. Castellanos,978-351-4571-9,Ciencias Sociales,Cosquín,1,28/03/2022
+L-100,Introducción a la Sociología - Tomo 2,H. Mansilla,978-248-3337-0,Ciencias Sociales,Río Tercero,2,18/10/2021
+L-101,Metodología de la Investigación Social - Tomo 2,E. Salvatierra,978-265-6538-1,Ciencias Sociales,Cosquín,4,21/02/2012
+L-102,Psicología del Aprendizaje - Tomo 2,S. Villalba,978-599-6931-2,Ciencias Sociales,Río Tercero,4,15/08/2011
+L-103,Antropología Cultural - Tomo 2,R. Castellanos,978-506-9909-3,Ciencias Sociales,Cosquín,2,27/05/2013
+L-104,Educación y Sociedad - Tomo 2,A. Gutiérrez,978-841-8650-4,Ciencias Sociales,Cosquín,5,24/01/2014
+L-105,Comunicación y Cultura - Tomo 2,V. Quiroga,978-627-7834-5,Ciencias Sociales,Cosquín,3,18/07/2019
+L-106,Filosofía Política - Tomo 2,D. Roldán,978-243-9018-6,Ciencias Sociales,Córdoba Capital,3,03/03/2020
+L-107,Álgebra Lineal - Tomo 2,L. Arismendi,978-136-7550-7,Matemática,Río Tercero,3,24/08/2014
+L-108,Análisis Matemático I - Tomo 2,R. Castellanos,978-991-4351-8,Matemática,Córdoba Capital,4,25/06/2013
+L-109,Probabilidad y Estadística - Tomo 2,N. Figueroa,978-407-7886-9,Matemática,Córdoba Capital,2,21/02/2022
+L-110,Matemática Discreta - Tomo 2,M. Pereyra,978-336-6191-0,Matemática,Villa María,2,09/08/2024
+L-111,Cálculo Numérico - Tomo 2,T. Arellano,978-233-8270-1,Matemática,Córdoba Capital,1,22/08/2010
+L-112,Cuentos Completos de Cortázar - Tomo 2,E. Salvatierra,978-503-6459-2,Literatura,Cosquín,1,23/10/2010
+L-113,El Aleph - Tomo 2,A. Gutiérrez,978-112-6450-3,Literatura,Cosquín,4,15/11/2017
+L-114,Literatura Latinoamericana del Siglo XX - Tomo 2,N. Figueroa,978-241-7121-4,Literatura,Río Tercero,2,04/06/2012
+L-115,Poesía Argentina Reunida - Tomo 2,T. Arellano,978-305-3569-5,Literatura,Cosquín,3,06/10/2021
+L-116,Taller de Escritura Creativa - Tomo 2,C. Benítez,978-544-5053-6,Literatura,Córdoba Capital,1,17/09/2021
+L-117,Administración de Organizaciones - Tomo 2,T. Arellano,978-772-2609-7,Administración,Río Tercero,4,25/06/2014
+L-118,Contabilidad Básica - Tomo 2,E. Salvatierra,978-549-7895-8,Administración,Córdoba Capital,3,09/09/2018
+L-119,Gestión de Proyectos - Tomo 2,P. Arrieta,978-431-1435-9,Administración,Río Tercero,1,12/12/2024
+L-120,Marketing Digital - Tomo 2,T. Arellano,978-771-4191-0,Administración,Río Tercero,3,08/01/2015
+L-121,Economía para no Economistas - Tomo 3,E. Salvatierra,978-810-6109-1,Administración,Córdoba Capital,2,07/09/2010
+L-122,English for Information Technology - Tomo 3,J. Domínguez,978-356-8727-2,Idiomas,Córdoba Capital,4,22/03/2018
+L-123,Gramática Inglesa Avanzada - Tomo 3,V. Quiroga,978-537-5122-3,Idiomas,Río Tercero,5,11/01/2021
+L-124,Portugués Básico - Tomo 3,D. Roldán,978-323-1673-4,Idiomas,Cosquín,5,04/08/2008
+L-125,Inglés Técnico para Ingeniería - Tomo 3,H. Mansilla,978-376-7018-5,Idiomas,Cosquín,4,13/02/2017
+L-126,Biología General - Tomo 3,L. Arismendi,978-567-7460-6,Ciencias Naturales,Córdoba Capital,1,12/11/2020
+L-127,Química Orgánica - Tomo 3,E. Salvatierra,978-418-2519-7,Ciencias Naturales,Río Tercero,4,12/07/2020
+L-128,Física I - Tomo 3,A. Gutiérrez,978-985-1278-8,Ciencias Naturales,Cosquín,1,06/09/2013
+L-129,Ecología y Ambiente - Tomo 3,G. Bonetto,978-957-4550-9,Ciencias Naturales,Córdoba Capital,2,05/10/2014
+L-130,Manual de Estudio Universitario - Tomo 3,R. Castellanos,978-642-5911-0,General,Córdoba Capital,5,28/02/2017
+L-131,Técnicas de Redacción Académica - Tomo 3,V. Quiroga,978-971-9262-1,General,Cosquín,2,21/08/2009
+L-132,Diccionario Enciclopédico Ilustrado - Tomo 3,N. Figueroa,978-909-1363-2,General,Cosquín,4,26/10/2009
+L-133,Introducción a la Programación en Python - Tomo 3,V. Quiroga,978-563-4776-3,Informática,Río Tercero,1,21/05/2024
+L-134,Estructuras de Datos y Algoritmos - Tomo 3,R. Castellanos,978-662-8109-4,Informática,Villa María,3,06/05/2014
+L-135,Bases de Datos Relacionales - Tomo 3,E. Salvatierra,978-415-6253-5,Informática,Cosquín,5,16/03/2008
+L-136,Fundamentos de Redes de Computadoras - Tomo 3,E. Salvatierra,978-758-9132-6,Informática,Córdoba Capital,5,04/04/2024
+L-137,Aprendizaje Automático Aplicado - Tomo 3,A. Gutiérrez,978-331-9201-7,Informática,Cosquín,4,04/11/2017
+L-138,Testeo de Software: Teoría y Práctica - Tomo 3,G. Bonetto,978-323-6750-8,Informática,Cosquín,2,11/12/2023
+L-139,Arquitectura de Computadoras - Tomo 3,S. Villalba,978-762-9577-9,Informática,Córdoba Capital,1,23/11/2023
+L-140,Ingeniería de Software - Tomo 3,L. Arismendi,978-708-3326-0,Informática,Córdoba Capital,3,17/10/2016
+L-141,Ciencia de Datos con Pandas - Tomo 3,D. Roldán,978-731-2260-1,Informática,Villa María,3,03/04/2021
+L-142,Sistemas Operativos Modernos - Tomo 3,G. Bonetto,978-715-2399-2,Informática,Villa María,3,03/02/2009
+L-143,Historia Argentina Contemporánea - Tomo 3,N. Figueroa,978-373-2385-3,Ciencias Sociales,Río Tercero,2,21/08/2008
+L-144,Introducción a la Sociología - Tomo 3,C. Benítez,978-455-6546-4,Ciencias Sociales,Cosquín,1,13/05/2011
+L-145,Metodología de la Investigación Social - Tomo 3,P. Arrieta,978-461-2688-5,Ciencias Sociales,Cosquín,5,27/10/2019
+L-146,Psicología del Aprendizaje - Tomo 3,L. Arismendi,978-319-2870-6,Ciencias Sociales,Córdoba Capital,2,16/07/2016
+L-147,Antropología Cultural - Tomo 3,V. Quiroga,978-730-4592-7,Ciencias Sociales,Córdoba Capital,2,28/08/2008
+L-148,Educación y Sociedad - Tomo 3,E. Salvatierra,978-919-8589-8,Ciencias Sociales,Villa María,5,07/01/2020
+L-149,Comunicación y Cultura - Tomo 3,N. Figueroa,978-691-4088-9,Ciencias Sociales,Río Tercero,2,05/10/2010
+L-150,Filosofía Política - Tomo 3,C. Benítez,978-763-7834-0,Ciencias Sociales,Río Tercero,2,04/07/2008
+L-151,Álgebra Lineal - Tomo 3,H. Mansilla,978-169-8587-1,Matemática,Río Tercero,5,16/11/2015
+L-152,Análisis Matemático I - Tomo 3,S. Villalba,978-314-9035-2,Matemática,Córdoba Capital,2,21/01/2017
+L-153,Probabilidad y Estadística - Tomo 3,P. Arrieta,978-697-5702-3,Matemática,Cosquín,4,10/07/2013
+L-154,Matemática Discreta - Tomo 3,H. Mansilla,978-505-8502-4,Matemática,Villa María,4,20/06/2009
+L-155,Cálculo Numérico - Tomo 3,P. Arrieta,978-851-8518-5,Matemática,Cosquín,2,20/01/2021
+L-156,Cuentos Completos de Cortázar - Tomo 3,C. Benítez,978-925-1112-6,Literatura,Villa María,1,18/02/2009
+L-157,El Aleph - Tomo 3,H. Mansilla,978-419-8269-7,Literatura,Cosquín,1,23/10/2011
+L-158,Literatura Latinoamericana del Siglo XX - Tomo 3,L. Arismendi,978-106-2316-8,Literatura,Río Tercero,3,21/01/2010
+L-159,Poesía Argentina Reunida - Tomo 3,J. Domínguez,978-150-2410-9,Literatura,Córdoba Capital,1,16/07/2015
+L-160,Taller de Escritura Creativa - Tomo 3,R. Castellanos,978-661-2469-0,Literatura,Villa María,2,15/05/2020
+L-161,Administración de Organizaciones - Tomo 3,V. Quiroga,978-438-2848-1,Administración,Cosquín,2,11/04/2024
+L-162,Contabilidad Básica - Tomo 3,H. Mansilla,978-671-1750-2,Administración,Villa María,4,12/04/2015
+L-163,Gestión de Proyectos - Tomo 3,A. Gutiérrez,978-789-2321-3,Administración,Río Tercero,2,16/07/2008
+L-164,Marketing Digital - Tomo 3,E. Salvatierra,978-684-4236-4,Administración,Cosquín,3,10/10/2024
+L-165,Economía para no Economistas - Tomo 3,E. Salvatierra,978-890-7933-5,Administración,Córdoba Capital,5,06/09/2018
+L-166,English for Information Technology - Tomo 3,D. Roldán,978-945-4087-6,Idiomas,Cosquín,4,13/09/2024
+L-167,Gramática Inglesa Avanzada - Tomo 3,T. Arellano,978-723-9442-7,Idiomas,Cosquín,4,15/01/2015
+L-168,Portugués Básico - Tomo 3,L. Arismendi,978-860-3102-8,Idiomas,Cosquín,3,16/12/2021
+L-169,Inglés Técnico para Ingeniería - Tomo 3,E. Salvatierra,978-695-8423-9,Idiomas,Villa María,3,26/07/2016
+L-170,Biología General - Tomo 3,C. Benítez,978-677-8136-0,Ciencias Naturales,Río Tercero,4,25/12/2008
+L-171,Química Orgánica - Tomo 3,E. Salvatierra,978-718-7626-1,Ciencias Naturales,Cosquín,3,17/04/2008
+L-172,Física I - Tomo 3,T. Arellano,978-337-8925-2,Ciencias Naturales,Cosquín,5,14/04/2017
+L-173,Ecología y Ambiente - Tomo 3,M. Pereyra,978-515-4348-3,Ciencias Naturales,Cosquín,2,20/05/2020
+L-174,Manual de Estudio Universitario - Tomo 3,N. Figueroa,978-802-7099-4,General,Villa María,2,23/09/2017
+L-175,Técnicas de Redacción Académica - Tomo 3,D. Roldán,978-170-8373-5,General,Córdoba Capital,2,20/10/2024
+L-176,Diccionario Enciclopédico Ilustrado - Tomo 3,N. Figueroa,978-607-3754-6,General,Cosquín,1,19/01/2024
+L-177,Introducción a la Programación en Python - Tomo 3,S. Villalba,978-252-7131-7,Informática,Cosquín,5,01/02/2008
+L-178,Estructuras de Datos y Algoritmos - Tomo 3,M. Pereyra,978-152-6435-8,Informática,Córdoba Capital,3,17/12/2023
+L-179,Bases de Datos Relacionales - Tomo 3,D. Roldán,978-450-7516-9,Informática,Cosquín,4,24/05/2018
+L-180,Fundamentos de Redes de Computadoras - Tomo 3,C. Benítez,978-962-1723-0,Informática,Cosquín,5,05/10/2013
+L-181,Aprendizaje Automático Aplicado - Tomo 4,M. Pereyra,978-463-2295-1,Informática,Córdoba Capital,3,21/08/2010
+L-182,Testeo de Software: Teoría y Práctica - Tomo 4,G. Bonetto,978-539-7775-2,Informática,Córdoba Capital,2,23/05/2013
+L-183,Arquitectura de Computadoras - Tomo 4,S. Villalba,978-440-8286-3,Informática,Cosquín,4,11/11/2010
+L-184,Ingeniería de Software - Tomo 4,V. Quiroga,978-752-4440-4,Informática,Cosquín,3,05/02/2018
+L-185,Ciencia de Datos con Pandas - Tomo 4,G. Bonetto,978-476-3675-5,Informática,Río Tercero,3,03/10/2009
+L-186,Sistemas Operativos Modernos - Tomo 4,L. Arismendi,978-118-7148-6,Informática,Cosquín,5,28/08/2024
+L-187,Historia Argentina Contemporánea - Tomo 4,H. Mansilla,978-710-8382-7,Ciencias Sociales,Río Tercero,5,09/09/2020
+L-188,Introducción a la Sociología - Tomo 4,M. Pereyra,978-332-1555-8,Ciencias Sociales,Cosquín,1,26/07/2013
+L-189,Metodología de la Investigación Social - Tomo 4,G. Bonetto,978-896-4057-9,Ciencias Sociales,Cosquín,2,09/09/2009
+L-190,Psicología del Aprendizaje - Tomo 4,V. Quiroga,978-648-3903-0,Ciencias Sociales,Córdoba Capital,5,25/10/2017
+L-191,Antropología Cultural - Tomo 4,J. Domínguez,978-220-4312-1,Ciencias Sociales,Cosquín,4,21/05/2017
+L-192,Educación y Sociedad - Tomo 4,G. Bonetto,978-471-2542-2,Ciencias Sociales,Villa María,4,21/08/2010
+L-193,Comunicación y Cultura - Tomo 4,C. Benítez,978-561-2465-3,Ciencias Sociales,Córdoba Capital,1,07/07/2014
+L-194,Filosofía Política - Tomo 4,V. Quiroga,978-235-8324-4,Ciencias Sociales,Río Tercero,1,14/08/2010
+L-195,Álgebra Lineal - Tomo 4,T. Arellano,978-905-8782-5,Matemática,Cosquín,3,26/05/2016
+L-196,Análisis Matemático I - Tomo 4,V. Quiroga,978-309-6043-6,Matemática,Cosquín,2,15/05/2011
+L-197,Probabilidad y Estadística - Tomo 4,S. Villalba,978-215-3482-7,Matemática,Córdoba Capital,5,19/06/2022
+L-198,Matemática Discreta - Tomo 4,P. Arrieta,978-680-5861-8,Matemática,Río Tercero,3,26/05/2018
+L-199,Cálculo Numérico - Tomo 4,J. Domínguez,978-474-6204-9,Matemática,Cosquín,1,08/06/2019
+L-200,Cuentos Completos de Cortázar - Tomo 4,N. Figueroa,978-220-8285-0,Literatura,Cosquín,4,04/10/2024
+L-201,El Aleph - Tomo 4,A. Gutiérrez,978-220-4875-1,Literatura,Río Tercero,3,03/01/2018
+L-202,Literatura Latinoamericana del Siglo XX - Tomo 4,L. Arismendi,978-326-3677-2,Literatura,Cosquín,1,05/09/2017
+L-203,Poesía Argentina Reunida - Tomo 4,A. Gutiérrez,978-677-4589-3,Literatura,Cosquín,4,27/02/2018
+L-204,Taller de Escritura Creativa - Tomo 4,P. Arrieta,978-440-7391-4,Literatura,Cosquín,2,14/10/2018
+L-205,Administración de Organizaciones - Tomo 4,A. Gutiérrez,978-401-5536-5,Administración,Córdoba Capital,0,07/05/2019

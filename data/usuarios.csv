@@ -1,0 +1,104 @@
+ID_Usuario,Nombre,Email,Rol,Tipo_Usuario,Sede,Estado,Hash_Clave
+U-001,Marcos Villagra,marcos.villagra@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-002,Sofía Suárez,sofia.suarez@ispc.edu.ar,Docente,Docente,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-003,Valentina Suárez,valentina.suarez@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-004,Matías Nieto,matias.nieto@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-005,Christian Quispe,christian.quispe@ispc.edu.ar,Docente,Docente,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-006,Valentina Ferreyra,valentina.ferreyra@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-007,Leandro Carrizo,leandro.carrizo@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-008,Carolina Zárate,carolina.zarate@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-009,Victoria Barrera,victoria.barrera@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-010,Victoria Olmos,victoria.olmos@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-011,Facundo Villagra,facundo.villagra@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-012,Camila Ferreyra,camila.ferreyra@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Suspendido,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-013,Ignacio Toledo,ignacio.toledo@ispc.edu.ar,Docente,Docente,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-014,Santino Vidal Gallea,santino.gallea@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-015,Agustina Carrizo,agustina.carrizo@ispc.edu.ar,Docente,Docente,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-016,Florencia Ramírez,florencia.ramirez@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-017,Celeste Ocampo,celeste.ocampo@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-018,Martina Bustos,martina.bustos@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-019,Gastón Ledesma,gaston.ledesma@ispc.edu.ar,Docente,Docente,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-020,Carolina Zárate,carolina.zarate2@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-021,Leandro Ferreyra,leandro.ferreyra@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-022,Victoria Paz,victoria.paz@ispc.edu.ar,Docente,Docente,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-023,Brenda Sosa,brenda.sosa@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-024,Agustina Nieto,agustina.nieto@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-025,Florencia Ferreyra,florencia.ferreyra@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-026,Rocío Toledo,rocio.toledo@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-027,Facundo Molina,facundo.molina@ispc.edu.ar,Estudiante,Alumno,Villa María,Suspendido,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-028,Gastón Ocampo,gaston.ocampo@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-029,Florencia Heredia,florencia.heredia@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-030,Julieta Ocampo,julieta.ocampo@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-031,Carolina Villagra,carolina.villagra@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-032,Joaquín Brizuela,joaquin.brizuela@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-033,Victoria Peralta,victoria.peralta@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-034,Melina Villagra,melina.villagra@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-035,Noelia Ferreyra,noelia.ferreyra@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-036,Gonzalo Zárate,gonzalo.zarate@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-037,Rocío Fernández,rocio.fernandez@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-038,Mateo Zárate,mateo.zarate@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-039,Santiago Luna,santiago.luna@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-040,Matías Rivero,matias.rivero@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-041,Martina Suárez,martina.suarez@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-042,Emiliano Ferreyra,emiliano.ferreyra@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-043,Rocío Nieto,rocio.nieto@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-044,Sofía Moyano,sofia.moyano@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-045,Joaquín Carrizo,joaquin.carrizo@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-046,Martina Moyano,martina.moyano@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-047,Carolina Bustos,carolina.bustos@ispc.edu.ar,Docente,Docente,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-048,Florencia Suárez,florencia.suarez@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-049,Micaela Suárez,micaela.suarez@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-050,Martina Peralta,martina.peralta@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-051,Joaquín Paz,joaquin.paz@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-052,Agustina Toledo,agustina.toledo@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-053,Leandro Bustos,leandro.bustos@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-054,Benjamín Toledo,benjamin.toledo@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-055,Carolina Barrera,carolina.barrera@ispc.edu.ar,Estudiante,Alumno,Cosquín,Suspendido,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-056,Sofía Bustos,sofia.bustos@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-057,Marcos Zárate,marcos.zarate@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-058,Carolina Cabrera,carolina.cabrera@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-059,Facundo Carrizo,facundo.carrizo@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-060,Tomás Agüero,tomas.aguero@ispc.edu.ar,Docente,Docente,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-061,Melina Sosa,melina.sosa@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-062,Valentina Barrera,valentina.barrera@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-063,Gastón Nieto,gaston.nieto@ispc.edu.ar,Docente,Docente,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-064,Brenda Heredia,brenda.heredia@ispc.edu.ar,Docente,Docente,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-065,Marcos Gómez,marcos.gomez@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-066,Victoria Ávila,victoria.avila@ispc.edu.ar,Docente,Docente,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-067,Lautaro Carrizo,lautaro.carrizo@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-068,Noelia Brizuela,noelia.brizuela@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-069,Benjamín Brizuela,benjamin.brizuela@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-070,Mateo Carrizo,mateo.carrizo@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-071,Nicolás Cabrera,nicolas.cabrera@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Suspendido,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-072,Rocío Gómez,rocio.gomez@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-073,Martina Luna,martina.luna@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-074,Antonella Cabrera,antonella.cabrera@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-075,Rocío Ferreyra,rocio.ferreyra@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-076,Marcos Barrera,marcos.barrera@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-077,Valentina Nieto,valentina.nieto@ispc.edu.ar,Docente,Docente,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-078,Mateo Sosa,mateo.sosa@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-079,Agustina Gómez,agustina.gomez@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-080,Tomás Peralta,tomas.peralta@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-081,Franco Ocampo,franco.ocampo@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-082,Carolina Carrizo,carolina.carrizo@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-083,Victoria Olmos,victoria.olmos2@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-084,Pablo Francisco Elias,pablo.elias@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-085,Micaela Ledesma,micaela.ledesma@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-086,Victoria Nieto,victoria.nieto@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-087,Ignacio Molina,ignacio.molina@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-088,Mateo Lloveras,mateo.lloveras@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-089,Joaquín Carrizo,joaquin.carrizo@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-090,Ramiro Heredia,ramiro.heredia@ispc.edu.ar,Docente,Docente,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-091,Ignacio Agüero,ignacio.aguero@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-092,Sofía Moyano,sofia.moyano2@ispc.edu.ar,Estudiante,Alumno,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-093,Agustina Ocampo,agustina.ocampo@ispc.edu.ar,Docente,Docente,Córdoba Capital,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-094,Victoria Carrizo,victoria.carrizo@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-095,Gino Lencina,gino.lencina@ispc.edu.ar,Bibliotecario,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-096,Daniela Carrizo,daniela.carrizo@ispc.edu.ar,Estudiante,Alumno,Villa María,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-097,Camila Olmos,camila.olmos@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-098,Lucía Cabrera,lucia.cabrera@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-099,Federico Agüero,federico.aguero@ispc.edu.ar,Docente,Docente,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-100,Federico Moyano,federico.moyano@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-101,Tomás Sosa,tomas.sosa@ispc.edu.ar,Estudiante,Alumno,Río Tercero,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-102,Martina Vega,martina.vega@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d
+U-103,Rocío Maldonado,rocio.maldonado@ispc.edu.ar,Estudiante,Alumno,Cosquín,Activo,2921062e68e0ef435161c508c5e72a86931f1f3ac512471780a4ebd0637bd66d

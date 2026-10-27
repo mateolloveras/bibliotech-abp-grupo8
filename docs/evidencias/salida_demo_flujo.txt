@@ -1,0 +1,96 @@
+
+======================================================================
+1. Carga y control de calidad de datos (RF1 y RF2)
+======================================================================
+Control de calidad de datos: prestamos_historicos.csv
+  Registros: 904 | Variables: 10
+  Registros duplicados: 0
+  Valores nulos detectados:
+    - Fecha_Devolucion_Real: 56 (6.2%)
+
+======================================================================
+2. Análisis exploratorio (RF3, RF4 y RF5)
+======================================================================
+Resumen del histórico de préstamos (últimos 12 meses)
+  Préstamos registrados: 904
+  Préstamos vigentes (sin devolución real): 56
+  Ejemplares reportados como extraviados (demora > 90 días): 9
+  Devoluciones tardías sobre préstamos cerrados: 296 (35.3%)
+  Promedio de días de demora en devoluciones tardías: 4.0 días
+  Categorías más solicitadas: Informática y Ciencias Sociales
+  Sede con más préstamos: Cosquín
+  Sede con mayor tasa de mora: Cosquín
+
+                 Prestamos  Devoluciones_Tardias  Tasa_Mora
+Sede                                                       
+Cosquín                256                   141       55.1
+Córdoba Capital        196                    80       40.8
+Río Tercero            157                    37       23.6
+Villa María            230                    38       16.5
+
+======================================================================
+3. CF-03 / CF-04 - Autenticación
+======================================================================
+Bienvenido Gino Lencina (Rol: Bibliotecario)
+❌ Error de autenticación: credenciales inválidas
+
+======================================================================
+4. CF-01 / CF-02 - Alta de usuarios
+======================================================================
+✅ Usuario registrado con éxito (ID asignado: U-104)
+❌ Error: El campo Nombre es obligatorio
+
+======================================================================
+5. BT-03 - Búsqueda en el catálogo con límite de 100 caracteres
+======================================================================
+Resultados para 'Python': 5
+⚠ El término de búsqueda supera los 100 caracteres permitidos: se truncó al máximo
+
+======================================================================
+6. BT-01 - Validación de días de préstamo (valores límite)
+======================================================================
+  0 días: rechazado -> El plazo de préstamo debe ser de entre 1 y 14 días corridos
+  1 días: aceptado
+  14 días: aceptado
+  15 días: rechazado -> El plazo de préstamo debe ser de entre 1 y 14 días corridos
+
+======================================================================
+7. BT-02 - Bloqueo por mora y BT-07 - Falta de stock
+======================================================================
+🚫 Operación no permitida: registra una penalización activa. Acérquese a biblioteca
+❌ Sin disponibilidad de ejemplares físicos para este título
+
+======================================================================
+8. Reserva válida + predicción de riesgo (PI-02 y BT-06)
+======================================================================
+✅ Reserva confirmada: devolver antes del 10/11/2026
+Probabilidad estimada de mora: 8.9% - 🟢 RIESGO BAJO (Sin acción preventiva)
+
+BT-06 (Informática / Alumno / 3 demoras previas): Probabilidad estimada de mora: 78.7% - 🔴 RIESGO ALTO (Priorizar recordatorio)
+
+======================================================================
+9. BT-08 y PI-04 - Notificación de vencimiento
+======================================================================
+Préstamos por vencer en los próximos 2 días: 9
+
+Para: joaquin.carrizo@ispc.edu.ar
+Asunto: BiblioTech - Recordatorio de devolución
+
+Hola Joaquín Carrizo:
+Te recordamos que el ejemplar «Sistemas Operativos Modernos» debe devolverse antes del 29/10/2026.
+Este aviso se envía de forma anticipada porque el préstamo figura con riesgo alto de demora.
+Biblioteca ISPC
+
+======================================================================
+10. BUG-03 (abierto) - Baja de un usuario con préstamo activo
+======================================================================
+¿U-089 tiene préstamos activos?: True
+Resultado de la baja: ✅ Usuario eliminado del padrón
+El sistema permite la baja igual: defecto BUG-03, pendiente de corrección.
+
+======================================================================
+11. Métricas del modelo
+======================================================================
+Registros evaluados: 210
+Accuracy: 0.78 | Precisión: 0.71 | Recall: 0.65
+Matriz de confusión: [[116, 20], [26, 48]]

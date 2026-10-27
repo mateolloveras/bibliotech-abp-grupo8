@@ -1,0 +1,905 @@
+ID_Prestamo,ID_Usuario,ID_Ejemplar,Tipo_Usuario,Categoria_Libro,Sede,Fecha_Prestamo,Fecha_Devolucion_Pactada,Fecha_Devolucion_Real,Demoras_Previas
+P-001,U-099,L-035,Docente,Idiomas,Río Tercero,28/10/2025,07/11/2025,05/11/2025,0
+P-002,U-095,L-183,Alumno,Informática,Villa María,28/10/2025,04/11/2025,29/10/2025,0
+P-003,U-091,L-080,Alumno,Idiomas,Cosquín,29/10/2025,05/11/2025,06/11/2025,0
+P-004,U-064,L-016,Docente,Ciencias Sociales,Río Tercero,29/10/2025,12/11/2025,,0
+P-005,U-035,L-198,Alumno,Matemática,Cosquín,29/10/2025,03/11/2025,07/11/2025,0
+P-006,U-082,L-204,Alumno,Literatura,Villa María,31/10/2025,05/11/2025,01/11/2025,0
+P-007,U-031,L-047,Alumno,Informática,Córdoba Capital,31/10/2025,10/11/2025,10/11/2025,0
+P-008,U-102,L-054,Alumno,Informática,Cosquín,01/11/2025,08/11/2025,12/11/2025,0
+P-009,U-092,L-078,Alumno,Idiomas,Córdoba Capital,01/11/2025,11/11/2025,09/11/2025,0
+P-010,U-099,L-145,Docente,Ciencias Sociales,Río Tercero,01/11/2025,08/11/2025,05/11/2025,0
+P-011,U-076,L-040,Alumno,Ciencias Naturales,Córdoba Capital,01/11/2025,11/11/2025,07/11/2025,0
+P-012,U-073,L-124,Alumno,Idiomas,Río Tercero,01/11/2025,15/11/2025,12/11/2025,0
+P-013,U-014,L-146,Alumno,Ciencias Sociales,Cosquín,01/11/2025,08/11/2025,,0
+P-014,U-080,L-106,Alumno,Ciencias Sociales,Cosquín,01/11/2025,08/11/2025,10/11/2025,0
+P-015,U-006,L-022,Alumno,Matemática,Villa María,01/11/2025,08/11/2025,07/11/2025,0
+P-016,U-059,L-144,Alumno,Ciencias Sociales,Cosquín,01/11/2025,08/11/2025,09/11/2025,0
+P-017,U-035,L-120,Alumno,Administración,Cosquín,02/11/2025,12/11/2025,15/11/2025,1
+P-018,U-067,L-198,Alumno,Matemática,Villa María,02/11/2025,09/11/2025,04/11/2025,0
+P-019,U-068,L-109,Alumno,Matemática,Córdoba Capital,02/11/2025,05/11/2025,03/11/2025,0
+P-020,U-090,L-023,Docente,Matemática,Córdoba Capital,02/11/2025,12/11/2025,09/11/2025,0
+P-021,U-021,L-035,Alumno,Idiomas,Córdoba Capital,03/11/2025,10/11/2025,12/11/2025,0
+P-022,U-061,L-091,Alumno,Informática,Río Tercero,03/11/2025,10/11/2025,05/11/2025,0
+P-023,U-017,L-201,Alumno,Literatura,Río Tercero,04/11/2025,07/11/2025,07/11/2025,0
+P-024,U-101,L-031,Alumno,Administración,Río Tercero,04/11/2025,11/11/2025,06/11/2025,0
+P-025,U-088,L-022,Alumno,Matemática,Villa María,04/11/2025,18/11/2025,08/11/2025,0
+P-026,U-011,L-184,Alumno,Informática,Cosquín,05/11/2025,12/11/2025,07/11/2025,0
+P-027,U-040,L-104,Alumno,Ciencias Sociales,Cosquín,05/11/2025,12/11/2025,15/11/2025,0
+P-028,U-005,L-053,Docente,Informática,Río Tercero,05/11/2025,12/11/2025,12/11/2025,0
+P-029,U-013,L-097,Docente,Informática,Villa María,06/11/2025,11/11/2025,08/11/2025,0
+P-030,U-051,L-002,Alumno,Informática,Cosquín,06/11/2025,13/11/2025,15/11/2025,0
+P-031,U-059,L-013,Alumno,Ciencias Sociales,Cosquín,06/11/2025,13/11/2025,11/11/2025,1
+P-032,U-073,L-091,Alumno,Informática,Río Tercero,06/11/2025,11/11/2025,07/11/2025,0
+P-033,U-032,L-092,Alumno,Informática,Villa María,07/11/2025,21/11/2025,20/11/2025,0
+P-034,U-054,L-168,Alumno,Idiomas,Villa María,07/11/2025,14/11/2025,10/11/2025,0
+P-035,U-026,L-074,Alumno,Administración,Córdoba Capital,07/11/2025,17/11/2025,15/11/2025,0
+P-036,U-020,L-004,Alumno,Informática,Río Tercero,07/11/2025,12/11/2025,09/11/2025,0
+P-037,U-029,L-142,Alumno,Informática,Cosquín,08/11/2025,18/11/2025,12/11/2025,0
+P-038,U-084,L-129,Alumno,Ciencias Naturales,Villa María,08/11/2025,22/11/2025,14/11/2025,0
+P-039,U-089,L-138,Alumno,Informática,Cosquín,08/11/2025,13/11/2025,15/11/2025,0
+P-040,U-103,L-045,Alumno,Informática,Cosquín,08/11/2025,18/11/2025,24/11/2025,0
+P-041,U-008,L-200,Alumno,Literatura,Córdoba Capital,09/11/2025,14/11/2025,13/11/2025,0
+P-042,U-097,L-186,Alumno,Informática,Río Tercero,09/11/2025,23/11/2025,21/11/2025,0
+P-043,U-095,L-121,Alumno,Administración,Villa María,10/11/2025,24/11/2025,18/11/2025,0
+P-044,U-069,L-017,Alumno,Ciencias Sociales,Villa María,10/11/2025,17/11/2025,19/11/2025,0
+P-045,U-002,L-182,Docente,Informática,Córdoba Capital,11/11/2025,21/11/2025,20/11/2025,0
+P-046,U-071,L-178,Alumno,Informática,Río Tercero,11/11/2025,21/11/2025,13/11/2025,0
+P-047,U-094,L-065,Alumno,Matemática,Cosquín,12/11/2025,22/11/2025,23/11/2025,0
+P-048,U-097,L-119,Alumno,Administración,Río Tercero,12/11/2025,17/11/2025,16/11/2025,0
+P-049,U-006,L-107,Alumno,Matemática,Villa María,12/11/2025,19/11/2025,15/11/2025,0
+P-050,U-013,L-026,Docente,Literatura,Villa María,12/11/2025,22/11/2025,22/11/2025,0
+P-051,U-031,L-162,Alumno,Administración,Córdoba Capital,13/11/2025,20/11/2025,20/11/2025,0
+P-052,U-070,L-036,Alumno,Idiomas,Córdoba Capital,13/11/2025,23/11/2025,18/11/2025,0
+P-053,U-019,L-116,Docente,Literatura,Villa María,13/11/2025,20/11/2025,19/11/2025,0
+P-054,U-014,L-004,Alumno,Informática,Cosquín,14/11/2025,28/11/2025,16/11/2025,0
+P-055,U-046,L-082,Alumno,Ciencias Naturales,Río Tercero,14/11/2025,21/11/2025,19/11/2025,0
+P-056,U-082,L-019,Alumno,Matemática,Villa María,14/11/2025,21/11/2025,15/11/2025,0
+P-057,U-078,L-064,Alumno,Matemática,Córdoba Capital,14/11/2025,21/11/2025,15/11/2025,0
+P-058,U-042,L-043,Alumno,General,Cosquín,14/11/2025,21/11/2025,22/11/2025,0
+P-059,U-036,L-038,Alumno,Ciencias Naturales,Córdoba Capital,15/11/2025,20/11/2025,17/11/2025,0
+P-060,U-071,L-040,Alumno,Ciencias Naturales,Río Tercero,15/11/2025,25/11/2025,18/11/2025,0
+P-061,U-048,L-039,Alumno,Ciencias Naturales,Cosquín,15/11/2025,22/11/2025,25/11/2025,0
+P-062,U-093,L-195,Docente,Matemática,Córdoba Capital,16/11/2025,30/11/2025,08/12/2025,0
+P-063,U-093,L-204,Docente,Literatura,Córdoba Capital,16/11/2025,23/11/2025,21/11/2025,1
+P-064,U-043,L-134,Alumno,Informática,Cosquín,16/11/2025,21/11/2025,28/11/2025,0
+P-065,U-060,L-040,Docente,Ciencias Naturales,Córdoba Capital,16/11/2025,30/11/2025,29/11/2025,0
+P-066,U-008,L-097,Alumno,Informática,Córdoba Capital,17/11/2025,22/11/2025,29/11/2025,0
+P-067,U-099,L-080,Docente,Idiomas,Río Tercero,17/11/2025,24/11/2025,21/11/2025,0
+P-068,U-056,L-158,Alumno,Literatura,Villa María,17/11/2025,20/11/2025,22/11/2025,0
+P-069,U-087,L-050,Alumno,Informática,Cosquín,18/11/2025,25/11/2025,29/11/2025,0
+P-070,U-078,L-160,Alumno,Literatura,Córdoba Capital,18/11/2025,23/11/2025,25/11/2025,0
+P-071,U-015,L-060,Docente,Ciencias Sociales,Cosquín,19/11/2025,26/11/2025,21/11/2025,0
+P-072,U-099,L-101,Docente,Ciencias Sociales,Río Tercero,19/11/2025,03/12/2025,04/12/2025,0
+P-073,U-088,L-143,Alumno,Ciencias Sociales,Villa María,20/11/2025,23/11/2025,22/11/2025,0
+P-074,U-043,L-016,Alumno,Ciencias Sociales,Cosquín,21/11/2025,05/12/2025,01/12/2025,1
+P-075,U-020,L-094,Alumno,Informática,Río Tercero,21/11/2025,26/11/2025,25/03/2026,0
+P-076,U-078,L-002,Alumno,Informática,Córdoba Capital,21/11/2025,05/12/2025,06/12/2025,1
+P-077,U-059,L-051,Alumno,Informática,Cosquín,21/11/2025,28/11/2025,30/11/2025,1
+P-078,U-035,L-004,Alumno,Informática,Cosquín,21/11/2025,24/11/2025,23/11/2025,2
+P-079,U-099,L-143,Docente,Ciencias Sociales,Río Tercero,21/11/2025,05/12/2025,22/11/2025,1
+P-080,U-006,L-134,Alumno,Informática,Villa María,21/11/2025,01/12/2025,01/12/2025,0
+P-081,U-035,L-187,Alumno,Ciencias Sociales,Cosquín,21/11/2025,28/11/2025,01/12/2025,2
+P-082,U-016,L-009,Alumno,Informática,Villa María,21/11/2025,05/12/2025,09/12/2025,0
+P-083,U-078,L-162,Alumno,Administración,Córdoba Capital,21/11/2025,05/12/2025,15/12/2025,2
+P-084,U-061,L-040,Alumno,Ciencias Naturales,Río Tercero,25/11/2025,09/12/2025,15/12/2025,0
+P-085,U-095,L-169,Alumno,Idiomas,Villa María,25/11/2025,02/12/2025,28/11/2025,0
+P-086,U-060,L-100,Docente,Ciencias Sociales,Córdoba Capital,25/11/2025,02/12/2025,30/11/2025,0
+P-087,U-036,L-037,Alumno,Idiomas,Córdoba Capital,26/11/2025,10/12/2025,14/12/2025,0
+P-088,U-077,L-057,Docente,Ciencias Sociales,Villa María,26/11/2025,03/12/2025,02/12/2025,0
+P-089,U-051,L-076,Alumno,Administración,Cosquín,26/11/2025,03/12/2025,29/11/2025,1
+P-090,U-060,L-132,Docente,General,Córdoba Capital,27/11/2025,04/12/2025,06/12/2025,0
+P-091,U-052,L-178,Alumno,Informática,Cosquín,27/11/2025,04/12/2025,07/12/2025,0
+P-092,U-044,L-158,Alumno,Literatura,Villa María,27/11/2025,11/12/2025,30/11/2025,0
+P-093,U-041,L-097,Alumno,Informática,Córdoba Capital,27/11/2025,04/12/2025,,0
+P-094,U-074,L-025,Alumno,Literatura,Río Tercero,27/11/2025,11/12/2025,05/12/2025,0
+P-095,U-069,L-191,Alumno,Ciencias Sociales,Villa María,28/11/2025,05/12/2025,08/12/2025,1
+P-096,U-005,L-085,Docente,Ciencias Naturales,Río Tercero,28/11/2025,08/12/2025,01/12/2025,0
+P-097,U-103,L-160,Alumno,Literatura,Cosquín,28/11/2025,12/12/2025,14/12/2025,1
+P-098,U-038,L-066,Alumno,Matemática,Cosquín,29/11/2025,06/12/2025,12/05/2026,0
+P-099,U-069,L-149,Alumno,Ciencias Sociales,Villa María,29/11/2025,09/12/2025,02/12/2025,2
+P-100,U-086,L-120,Alumno,Administración,Córdoba Capital,29/11/2025,13/12/2025,11/12/2025,0
+P-101,U-068,L-143,Alumno,Ciencias Sociales,Córdoba Capital,29/11/2025,13/12/2025,03/12/2025,0
+P-102,U-098,L-165,Alumno,Administración,Cosquín,29/11/2025,04/12/2025,04/12/2025,0
+P-103,U-047,L-108,Docente,Matemática,Villa María,01/12/2025,15/12/2025,02/12/2025,0
+P-104,U-087,L-115,Alumno,Literatura,Cosquín,01/12/2025,15/12/2025,10/12/2025,1
+P-105,U-084,L-076,Alumno,Administración,Villa María,02/12/2025,09/12/2025,07/12/2025,0
+P-106,U-092,L-104,Alumno,Ciencias Sociales,Córdoba Capital,02/12/2025,09/12/2025,07/12/2025,0
+P-107,U-012,L-015,Alumno,Ciencias Sociales,Córdoba Capital,02/12/2025,16/12/2025,17/12/2025,0
+P-108,U-037,L-188,Alumno,Ciencias Sociales,Cosquín,03/12/2025,08/12/2025,09/12/2025,0
+P-109,U-060,L-054,Docente,Informática,Córdoba Capital,04/12/2025,11/12/2025,15/12/2025,1
+P-110,U-009,L-113,Alumno,Literatura,Cosquín,04/12/2025,09/12/2025,07/12/2025,0
+P-111,U-027,L-066,Alumno,Matemática,Villa María,04/12/2025,11/12/2025,08/12/2025,0
+P-112,U-090,L-011,Docente,Ciencias Sociales,Córdoba Capital,05/12/2025,12/12/2025,08/12/2025,0
+P-113,U-072,L-113,Alumno,Literatura,Río Tercero,05/12/2025,12/12/2025,07/12/2025,0
+P-114,U-034,L-060,Alumno,Ciencias Sociales,Cosquín,06/12/2025,13/12/2025,17/12/2025,0
+P-115,U-054,L-119,Alumno,Administración,Villa María,06/12/2025,13/12/2025,12/12/2025,0
+P-116,U-014,L-103,Alumno,Ciencias Sociales,Cosquín,06/12/2025,11/12/2025,,0
+P-117,U-031,L-095,Alumno,Informática,Córdoba Capital,06/12/2025,11/12/2025,07/12/2025,0
+P-118,U-022,L-080,Docente,Idiomas,Villa María,06/12/2025,13/12/2025,11/12/2025,0
+P-119,U-046,L-015,Alumno,Ciencias Sociales,Río Tercero,06/12/2025,11/12/2025,10/12/2025,0
+P-120,U-081,L-118,Alumno,Administración,Cosquín,08/12/2025,15/12/2025,21/12/2025,0
+P-121,U-101,L-097,Alumno,Informática,Río Tercero,09/12/2025,16/12/2025,22/12/2025,0
+P-122,U-038,L-090,Alumno,Informática,Cosquín,09/12/2025,16/12/2025,16/12/2025,1
+P-123,U-045,L-046,Alumno,Informática,Córdoba Capital,09/12/2025,14/12/2025,18/12/2025,0
+P-124,U-029,L-027,Alumno,Literatura,Cosquín,09/12/2025,23/12/2025,19/12/2025,0
+P-125,U-063,L-162,Docente,Administración,Cosquín,11/12/2025,18/12/2025,17/12/2025,0
+P-126,U-072,L-048,Alumno,Informática,Río Tercero,11/12/2025,21/12/2025,23/12/2025,0
+P-127,U-041,L-077,Alumno,Administración,Córdoba Capital,11/12/2025,14/12/2025,14/12/2025,0
+P-128,U-073,L-118,Alumno,Administración,Río Tercero,11/12/2025,18/12/2025,17/12/2025,0
+P-129,U-061,L-147,Alumno,Ciencias Sociales,Río Tercero,11/12/2025,14/12/2025,13/12/2025,1
+P-130,U-002,L-202,Docente,Literatura,Córdoba Capital,11/12/2025,16/12/2025,24/12/2025,0
+P-131,U-061,L-027,Alumno,Literatura,Río Tercero,12/12/2025,22/12/2025,24/12/2025,1
+P-132,U-006,L-043,Alumno,General,Villa María,13/12/2025,20/12/2025,14/12/2025,0
+P-133,U-007,L-122,Alumno,Idiomas,Córdoba Capital,14/12/2025,24/12/2025,23/12/2025,0
+P-134,U-101,L-095,Alumno,Informática,Río Tercero,14/12/2025,19/12/2025,20/12/2025,1
+P-135,U-091,L-105,Alumno,Ciencias Sociales,Cosquín,15/12/2025,22/12/2025,23/12/2025,1
+P-136,U-064,L-003,Docente,Informática,Río Tercero,15/12/2025,20/12/2025,18/12/2025,0
+P-137,U-052,L-031,Alumno,Administración,Cosquín,16/12/2025,21/12/2025,24/12/2025,1
+P-138,U-038,L-190,Alumno,Ciencias Sociales,Cosquín,18/12/2025,25/12/2025,24/12/2025,1
+P-139,U-077,L-109,Docente,Matemática,Villa María,19/12/2025,26/12/2025,22/12/2025,0
+P-140,U-092,L-199,Alumno,Matemática,Córdoba Capital,20/12/2025,30/12/2025,21/12/2025,0
+P-141,U-021,L-019,Alumno,Matemática,Córdoba Capital,20/12/2025,27/12/2025,06/01/2026,1
+P-142,U-073,L-069,Alumno,Literatura,Río Tercero,21/12/2025,28/12/2025,27/12/2025,0
+P-143,U-065,L-071,Alumno,Literatura,Cosquín,21/12/2025,28/12/2025,22/12/2025,0
+P-144,U-016,L-051,Alumno,Informática,Villa María,21/12/2025,28/12/2025,02/01/2026,1
+P-145,U-079,L-069,Alumno,Literatura,Córdoba Capital,21/12/2025,28/12/2025,26/12/2025,0
+P-146,U-019,L-100,Docente,Ciencias Sociales,Villa María,22/12/2025,29/12/2025,29/12/2025,0
+P-147,U-095,L-008,Alumno,Informática,Villa María,23/12/2025,06/01/2026,03/01/2026,0
+P-148,U-077,L-074,Docente,Administración,Villa María,23/12/2025,30/12/2025,26/12/2025,0
+P-149,U-078,L-034,Alumno,Idiomas,Córdoba Capital,24/12/2025,03/01/2026,25/12/2025,3
+P-150,U-058,L-152,Alumno,Matemática,Villa María,24/12/2025,07/01/2026,07/01/2026,0
+P-151,U-100,L-094,Alumno,Informática,Cosquín,25/12/2025,01/01/2026,31/12/2025,0
+P-152,U-043,L-065,Alumno,Matemática,Cosquín,25/12/2025,01/01/2026,31/12/2025,1
+P-153,U-048,L-171,Alumno,Ciencias Naturales,Cosquín,26/12/2025,09/01/2026,,1
+P-154,U-075,L-111,Alumno,Matemática,Cosquín,26/12/2025,09/01/2026,11/01/2026,0
+P-155,U-039,L-055,Alumno,Ciencias Sociales,Córdoba Capital,27/12/2025,01/01/2026,02/01/2026,0
+P-156,U-082,L-009,Alumno,Informática,Villa María,27/12/2025,03/01/2026,03/01/2026,0
+P-157,U-047,L-202,Docente,Literatura,Villa María,27/12/2025,03/01/2026,01/01/2026,0
+P-158,U-009,L-115,Alumno,Literatura,Cosquín,28/12/2025,31/12/2025,30/12/2025,0
+P-159,U-092,L-098,Alumno,Informática,Córdoba Capital,28/12/2025,04/01/2026,02/01/2026,0
+P-160,U-081,L-056,Alumno,Ciencias Sociales,Cosquín,28/12/2025,11/01/2026,08/01/2026,1
+P-161,U-069,L-108,Alumno,Matemática,Villa María,30/12/2025,04/01/2026,10/01/2026,2
+P-162,U-093,L-049,Docente,Informática,Córdoba Capital,30/12/2025,06/01/2026,02/01/2026,1
+P-163,U-002,L-149,Docente,Ciencias Sociales,Córdoba Capital,31/12/2025,03/01/2026,02/01/2026,1
+P-164,U-097,L-128,Alumno,Ciencias Naturales,Río Tercero,31/12/2025,07/01/2026,05/01/2026,0
+P-165,U-035,L-101,Alumno,Ciencias Sociales,Cosquín,31/12/2025,05/01/2026,12/01/2026,3
+P-166,U-082,L-166,Alumno,Idiomas,Villa María,01/01/2026,08/01/2026,06/01/2026,0
+P-167,U-075,L-108,Alumno,Matemática,Cosquín,01/01/2026,04/01/2026,02/05/2026,1
+P-168,U-013,L-050,Docente,Informática,Villa María,01/01/2026,06/01/2026,11/01/2026,0
+P-169,U-088,L-103,Alumno,Ciencias Sociales,Villa María,01/01/2026,15/01/2026,08/01/2026,0
+P-170,U-063,L-154,Docente,Matemática,Cosquín,01/01/2026,11/01/2026,06/01/2026,0
+P-171,U-073,L-109,Alumno,Matemática,Río Tercero,01/01/2026,08/01/2026,07/01/2026,0
+P-172,U-023,L-144,Alumno,Ciencias Sociales,Córdoba Capital,01/01/2026,08/01/2026,18/01/2026,0
+P-173,U-031,L-105,Alumno,Ciencias Sociales,Córdoba Capital,03/01/2026,13/01/2026,18/01/2026,0
+P-174,U-102,L-100,Alumno,Ciencias Sociales,Cosquín,03/01/2026,10/01/2026,12/01/2026,1
+P-175,U-060,L-042,Docente,General,Córdoba Capital,04/01/2026,09/01/2026,08/01/2026,2
+P-176,U-050,L-041,Alumno,Ciencias Naturales,Córdoba Capital,04/01/2026,14/01/2026,,0
+P-177,U-040,L-011,Alumno,Ciencias Sociales,Cosquín,04/01/2026,11/01/2026,14/01/2026,1
+P-178,U-022,L-091,Docente,Informática,Villa María,05/01/2026,10/01/2026,10/01/2026,0
+P-179,U-086,L-116,Alumno,Literatura,Córdoba Capital,05/01/2026,12/01/2026,11/01/2026,0
+P-180,U-098,L-062,Alumno,Ciencias Sociales,Cosquín,05/01/2026,12/01/2026,09/01/2026,0
+P-181,U-090,L-113,Docente,Literatura,Córdoba Capital,06/01/2026,09/01/2026,07/01/2026,0
+P-182,U-023,L-175,Alumno,General,Córdoba Capital,06/01/2026,20/01/2026,23/01/2026,1
+P-183,U-024,L-120,Alumno,Administración,Cosquín,06/01/2026,11/01/2026,10/01/2026,0
+P-184,U-103,L-021,Alumno,Matemática,Cosquín,07/01/2026,14/01/2026,13/01/2026,2
+P-185,U-089,L-196,Alumno,Matemática,Cosquín,07/01/2026,12/01/2026,10/01/2026,1
+P-186,U-027,L-035,Alumno,Idiomas,Villa María,09/01/2026,23/01/2026,21/01/2026,0
+P-187,U-034,L-076,Alumno,Administración,Cosquín,09/01/2026,23/01/2026,24/01/2026,1
+P-188,U-024,L-158,Alumno,Literatura,Cosquín,10/01/2026,17/01/2026,12/01/2026,0
+P-189,U-031,L-050,Alumno,Informática,Córdoba Capital,10/01/2026,17/01/2026,11/01/2026,1
+P-190,U-099,L-003,Docente,Informática,Río Tercero,11/01/2026,16/01/2026,13/01/2026,1
+P-191,U-008,L-093,Alumno,Informática,Córdoba Capital,11/01/2026,18/01/2026,13/01/2026,1
+P-192,U-089,L-181,Alumno,Informática,Cosquín,11/01/2026,21/01/2026,15/01/2026,1
+P-193,U-017,L-164,Alumno,Administración,Río Tercero,11/01/2026,18/01/2026,15/01/2026,0
+P-194,U-031,L-200,Alumno,Literatura,Córdoba Capital,12/01/2026,22/01/2026,16/01/2026,1
+P-195,U-043,L-163,Alumno,Administración,Cosquín,13/01/2026,18/01/2026,15/01/2026,1
+P-196,U-027,L-188,Alumno,Ciencias Sociales,Villa María,13/01/2026,20/01/2026,19/01/2026,0
+P-197,U-095,L-013,Alumno,Ciencias Sociales,Villa María,13/01/2026,16/01/2026,16/01/2026,0
+P-198,U-095,L-129,Alumno,Ciencias Naturales,Villa María,14/01/2026,28/01/2026,20/01/2026,0
+P-199,U-047,L-021,Docente,Matemática,Villa María,14/01/2026,21/01/2026,17/01/2026,0
+P-200,U-058,L-126,Alumno,Ciencias Naturales,Villa María,14/01/2026,17/01/2026,17/01/2026,0
+P-201,U-103,L-089,Alumno,Informática,Cosquín,15/01/2026,20/01/2026,01/02/2026,2
+P-202,U-028,L-104,Alumno,Ciencias Sociales,Córdoba Capital,15/01/2026,22/01/2026,25/01/2026,0
+P-203,U-009,L-171,Alumno,Ciencias Naturales,Cosquín,15/01/2026,22/01/2026,21/01/2026,0
+P-204,U-088,L-010,Alumno,Informática,Villa María,16/01/2026,26/01/2026,17/01/2026,0
+P-205,U-074,L-162,Alumno,Administración,Río Tercero,17/01/2026,27/01/2026,24/01/2026,0
+P-206,U-093,L-148,Docente,Ciencias Sociales,Córdoba Capital,17/01/2026,24/01/2026,01/02/2026,1
+P-207,U-013,L-191,Docente,Ciencias Sociales,Villa María,17/01/2026,24/01/2026,18/01/2026,1
+P-208,U-026,L-138,Alumno,Informática,Córdoba Capital,17/01/2026,31/01/2026,24/01/2026,0
+P-209,U-056,L-006,Alumno,Informática,Villa María,17/01/2026,27/01/2026,03/02/2026,1
+P-210,U-051,L-190,Alumno,Ciencias Sociales,Cosquín,18/01/2026,21/01/2026,21/01/2026,1
+P-211,U-031,L-091,Alumno,Informática,Córdoba Capital,18/01/2026,25/01/2026,,1
+P-212,U-084,L-182,Alumno,Informática,Villa María,18/01/2026,25/01/2026,22/01/2026,0
+P-213,U-064,L-048,Docente,Informática,Río Tercero,18/01/2026,01/02/2026,24/01/2026,0
+P-214,U-032,L-020,Alumno,Matemática,Villa María,18/01/2026,25/01/2026,22/01/2026,0
+P-215,U-037,L-188,Alumno,Ciencias Sociales,Cosquín,19/01/2026,02/02/2026,26/01/2026,1
+P-216,U-089,L-189,Alumno,Ciencias Sociales,Cosquín,19/01/2026,26/01/2026,30/01/2026,1
+P-217,U-056,L-204,Alumno,Literatura,Villa María,19/01/2026,02/02/2026,29/01/2026,2
+P-218,U-063,L-034,Docente,Idiomas,Cosquín,19/01/2026,26/01/2026,24/01/2026,0
+P-219,U-074,L-042,Alumno,General,Río Tercero,20/01/2026,27/01/2026,25/01/2026,0
+P-220,U-066,L-013,Docente,Ciencias Sociales,Villa María,21/01/2026,28/01/2026,24/01/2026,0
+P-221,U-035,L-050,Alumno,Informática,Cosquín,21/01/2026,28/01/2026,03/02/2026,4
+P-222,U-065,L-111,Alumno,Matemática,Cosquín,21/01/2026,31/01/2026,26/01/2026,0
+P-223,U-045,L-055,Alumno,Ciencias Sociales,Córdoba Capital,21/01/2026,04/02/2026,07/02/2026,1
+P-224,U-093,L-028,Docente,Literatura,Córdoba Capital,22/01/2026,29/01/2026,26/01/2026,2
+P-225,U-094,L-067,Alumno,Matemática,Cosquín,22/01/2026,01/02/2026,02/02/2026,1
+P-226,U-006,L-135,Alumno,Informática,Villa María,22/01/2026,29/01/2026,27/01/2026,0
+P-227,U-044,L-128,Alumno,Ciencias Naturales,Villa María,22/01/2026,27/01/2026,24/01/2026,0
+P-228,U-001,L-097,Alumno,Informática,Río Tercero,23/01/2026,28/01/2026,27/01/2026,0
+P-229,U-095,L-041,Alumno,Ciencias Naturales,Villa María,24/01/2026,07/02/2026,29/01/2026,0
+P-230,U-027,L-047,Alumno,Informática,Villa María,24/01/2026,03/02/2026,03/02/2026,0
+P-231,U-035,L-135,Alumno,Informática,Cosquín,25/01/2026,28/01/2026,04/02/2026,5
+P-232,U-067,L-168,Alumno,Idiomas,Villa María,25/01/2026,30/01/2026,29/01/2026,0
+P-233,U-003,L-132,Alumno,General,Cosquín,25/01/2026,01/02/2026,,0
+P-234,U-078,L-032,Alumno,Administración,Córdoba Capital,26/01/2026,02/02/2026,30/01/2026,3
+P-235,U-067,L-060,Alumno,Ciencias Sociales,Villa María,26/01/2026,05/02/2026,08/02/2026,0
+P-236,U-059,L-149,Alumno,Ciencias Sociales,Cosquín,26/01/2026,09/02/2026,13/02/2026,2
+P-237,U-072,L-168,Alumno,Idiomas,Río Tercero,26/01/2026,02/02/2026,03/02/2026,1
+P-238,U-059,L-160,Alumno,Literatura,Cosquín,26/01/2026,31/01/2026,03/02/2026,3
+P-239,U-065,L-197,Alumno,Matemática,Cosquín,27/01/2026,03/02/2026,31/01/2026,0
+P-240,U-093,L-186,Docente,Informática,Córdoba Capital,28/01/2026,04/02/2026,06/02/2026,2
+P-241,U-015,L-067,Docente,Matemática,Cosquín,28/01/2026,07/02/2026,02/02/2026,0
+P-242,U-088,L-005,Alumno,Informática,Villa María,29/01/2026,05/02/2026,04/02/2026,0
+P-243,U-071,L-020,Alumno,Matemática,Río Tercero,29/01/2026,12/02/2026,04/02/2026,0
+P-244,U-047,L-037,Docente,Idiomas,Villa María,29/01/2026,08/02/2026,02/02/2026,0
+P-245,U-008,L-007,Alumno,Informática,Córdoba Capital,29/01/2026,05/02/2026,04/02/2026,1
+P-246,U-095,L-022,Alumno,Matemática,Villa María,30/01/2026,13/02/2026,31/01/2026,0
+P-247,U-026,L-057,Alumno,Ciencias Sociales,Córdoba Capital,30/01/2026,02/02/2026,09/02/2026,0
+P-248,U-003,L-086,Alumno,General,Cosquín,31/01/2026,05/02/2026,11/02/2026,0
+P-249,U-093,L-181,Docente,Informática,Córdoba Capital,01/02/2026,15/02/2026,23/02/2026,3
+P-250,U-027,L-066,Alumno,Matemática,Villa María,01/02/2026,08/02/2026,04/02/2026,0
+P-251,U-008,L-079,Alumno,Idiomas,Córdoba Capital,01/02/2026,08/02/2026,09/02/2026,1
+P-252,U-046,L-068,Alumno,Literatura,Río Tercero,01/02/2026,06/02/2026,03/02/2026,0
+P-253,U-056,L-076,Alumno,Administración,Villa María,02/02/2026,09/02/2026,06/02/2026,2
+P-254,U-063,L-045,Docente,Informática,Cosquín,02/02/2026,09/02/2026,04/02/2026,0
+P-255,U-096,L-201,Alumno,Literatura,Villa María,02/02/2026,16/02/2026,07/02/2026,0
+P-256,U-008,L-191,Alumno,Ciencias Sociales,Córdoba Capital,02/02/2026,16/02/2026,16/02/2026,2
+P-257,U-008,L-050,Alumno,Informática,Córdoba Capital,03/02/2026,17/02/2026,08/02/2026,2
+P-258,U-071,L-047,Alumno,Informática,Río Tercero,03/02/2026,08/02/2026,07/02/2026,0
+P-259,U-018,L-002,Alumno,Informática,Río Tercero,04/02/2026,11/02/2026,10/02/2026,0
+P-260,U-038,L-053,Alumno,Informática,Cosquín,04/02/2026,07/02/2026,06/02/2026,1
+P-261,U-005,L-075,Docente,Administración,Río Tercero,04/02/2026,11/02/2026,09/02/2026,0
+P-262,U-011,L-138,Alumno,Informática,Cosquín,04/02/2026,14/02/2026,06/02/2026,0
+P-263,U-063,L-080,Docente,Idiomas,Cosquín,04/02/2026,11/02/2026,11/02/2026,0
+P-264,U-053,L-089,Alumno,Informática,Villa María,05/02/2026,12/02/2026,07/02/2026,0
+P-265,U-075,L-063,Alumno,Matemática,Cosquín,05/02/2026,12/02/2026,17/02/2026,2
+P-266,U-092,L-021,Alumno,Matemática,Córdoba Capital,06/02/2026,16/02/2026,12/02/2026,0
+P-267,U-101,L-040,Alumno,Ciencias Naturales,Río Tercero,06/02/2026,16/02/2026,17/02/2026,2
+P-268,U-096,L-008,Alumno,Informática,Villa María,07/02/2026,10/02/2026,09/02/2026,0
+P-269,U-034,L-012,Alumno,Ciencias Sociales,Cosquín,07/02/2026,17/02/2026,14/02/2026,2
+P-270,U-042,L-005,Alumno,Informática,Cosquín,07/02/2026,10/02/2026,,1
+P-271,U-103,L-187,Alumno,Ciencias Sociales,Cosquín,07/02/2026,17/02/2026,22/02/2026,3
+P-272,U-090,L-185,Docente,Informática,Córdoba Capital,07/02/2026,14/02/2026,14/02/2026,0
+P-273,U-048,L-017,Alumno,Ciencias Sociales,Cosquín,08/02/2026,18/02/2026,23/02/2026,1
+P-274,U-028,L-035,Alumno,Idiomas,Córdoba Capital,08/02/2026,18/02/2026,19/02/2026,1
+P-275,U-002,L-117,Docente,Administración,Córdoba Capital,09/02/2026,16/02/2026,16/02/2026,1
+P-276,U-016,L-042,Alumno,General,Villa María,09/02/2026,16/02/2026,14/02/2026,2
+P-277,U-078,L-141,Alumno,Informática,Córdoba Capital,09/02/2026,23/02/2026,12/02/2026,3
+P-278,U-071,L-196,Alumno,Matemática,Río Tercero,09/02/2026,23/02/2026,17/02/2026,0
+P-279,U-026,L-101,Alumno,Ciencias Sociales,Córdoba Capital,10/02/2026,24/02/2026,16/02/2026,1
+P-280,U-074,L-007,Alumno,Informática,Río Tercero,11/02/2026,16/02/2026,19/02/2026,0
+P-281,U-066,L-017,Docente,Ciencias Sociales,Villa María,11/02/2026,18/02/2026,13/02/2026,0
+P-282,U-072,L-100,Alumno,Ciencias Sociales,Río Tercero,11/02/2026,18/02/2026,17/02/2026,2
+P-283,U-085,L-188,Alumno,Ciencias Sociales,Cosquín,12/02/2026,19/02/2026,14/02/2026,0
+P-284,U-013,L-122,Docente,Idiomas,Villa María,12/02/2026,15/02/2026,15/02/2026,1
+P-285,U-069,L-052,Alumno,Informática,Villa María,12/02/2026,19/02/2026,25/02/2026,3
+P-286,U-015,L-024,Docente,Literatura,Cosquín,13/02/2026,20/02/2026,14/02/2026,0
+P-287,U-038,L-141,Alumno,Informática,Cosquín,14/02/2026,19/02/2026,23/02/2026,1
+P-288,U-059,L-032,Alumno,Administración,Cosquín,14/02/2026,21/02/2026,22/02/2026,4
+P-289,U-041,L-154,Alumno,Matemática,Córdoba Capital,15/02/2026,22/02/2026,16/02/2026,0
+P-290,U-066,L-008,Docente,Informática,Villa María,16/02/2026,21/02/2026,17/02/2026,0
+P-291,U-004,L-069,Alumno,Literatura,Río Tercero,16/02/2026,23/02/2026,19/02/2026,0
+P-292,U-080,L-028,Alumno,Literatura,Cosquín,16/02/2026,23/02/2026,23/02/2026,1
+P-293,U-032,L-090,Alumno,Informática,Villa María,17/02/2026,24/02/2026,20/02/2026,0
+P-294,U-074,L-101,Alumno,Ciencias Sociales,Río Tercero,17/02/2026,24/02/2026,22/02/2026,1
+P-295,U-077,L-069,Docente,Literatura,Villa María,17/02/2026,22/02/2026,19/02/2026,0
+P-296,U-061,L-197,Alumno,Matemática,Río Tercero,17/02/2026,22/02/2026,25/02/2026,2
+P-297,U-053,L-165,Alumno,Administración,Villa María,17/02/2026,03/03/2026,25/02/2026,0
+P-298,U-067,L-118,Alumno,Administración,Villa María,18/02/2026,04/03/2026,24/02/2026,1
+P-299,U-066,L-054,Docente,Informática,Villa María,18/02/2026,23/02/2026,22/02/2026,0
+P-300,U-027,L-104,Alumno,Ciencias Sociales,Villa María,18/02/2026,04/03/2026,21/02/2026,0
+P-301,U-001,L-069,Alumno,Literatura,Río Tercero,19/02/2026,01/03/2026,23/02/2026,0
+P-302,U-073,L-091,Alumno,Informática,Río Tercero,19/02/2026,26/02/2026,20/02/2026,0
+P-303,U-044,L-040,Alumno,Ciencias Naturales,Villa María,19/02/2026,26/02/2026,20/02/2026,0
+P-304,U-034,L-142,Alumno,Informática,Cosquín,20/02/2026,02/03/2026,05/03/2026,2
+P-305,U-082,L-094,Alumno,Informática,Villa María,20/02/2026,27/02/2026,22/02/2026,0
+P-306,U-044,L-088,Alumno,General,Villa María,21/02/2026,28/02/2026,03/03/2026,0
+P-307,U-005,L-136,Docente,Informática,Río Tercero,21/02/2026,26/02/2026,23/02/2026,0
+P-308,U-004,L-195,Alumno,Matemática,Río Tercero,21/02/2026,03/03/2026,23/02/2026,0
+P-309,U-094,L-114,Alumno,Literatura,Cosquín,21/02/2026,28/02/2026,02/03/2026,2
+P-310,U-039,L-150,Alumno,Ciencias Sociales,Córdoba Capital,21/02/2026,28/02/2026,07/03/2026,1
+P-311,U-102,L-055,Alumno,Ciencias Sociales,Cosquín,21/02/2026,03/03/2026,08/03/2026,2
+P-312,U-096,L-043,Alumno,General,Villa María,22/02/2026,04/03/2026,03/03/2026,0
+P-313,U-046,L-102,Alumno,Ciencias Sociales,Río Tercero,22/02/2026,01/03/2026,23/02/2026,0
+P-314,U-080,L-159,Alumno,Literatura,Cosquín,23/02/2026,26/02/2026,24/02/2026,1
+P-315,U-063,L-075,Docente,Administración,Cosquín,23/02/2026,02/03/2026,26/02/2026,0
+P-316,U-022,L-028,Docente,Literatura,Villa María,23/02/2026,02/03/2026,25/02/2026,0
+P-317,U-023,L-194,Alumno,Ciencias Sociales,Córdoba Capital,23/02/2026,05/03/2026,17/03/2026,2
+P-318,U-009,L-044,Alumno,General,Cosquín,24/02/2026,10/03/2026,06/03/2026,0
+P-319,U-031,L-124,Alumno,Idiomas,Córdoba Capital,24/02/2026,10/03/2026,01/03/2026,1
+P-320,U-081,L-093,Alumno,Informática,Cosquín,24/02/2026,27/02/2026,01/03/2026,1
+P-321,U-028,L-057,Alumno,Ciencias Sociales,Córdoba Capital,25/02/2026,04/03/2026,28/02/2026,2
+P-322,U-056,L-125,Alumno,Idiomas,Villa María,26/02/2026,12/03/2026,07/03/2026,2
+P-323,U-068,L-124,Alumno,Idiomas,Córdoba Capital,26/02/2026,03/03/2026,03/03/2026,0
+P-324,U-002,L-063,Docente,Matemática,Córdoba Capital,26/02/2026,01/03/2026,28/02/2026,1
+P-325,U-088,L-055,Alumno,Ciencias Sociales,Villa María,27/02/2026,06/03/2026,06/03/2026,0
+P-326,U-051,L-186,Alumno,Informática,Cosquín,28/02/2026,07/03/2026,07/03/2026,1
+P-327,U-089,L-118,Alumno,Administración,Cosquín,28/02/2026,03/03/2026,01/03/2026,2
+P-328,U-024,L-202,Alumno,Literatura,Cosquín,01/03/2026,06/03/2026,03/03/2026,0
+P-329,U-097,L-080,Alumno,Idiomas,Río Tercero,01/03/2026,08/03/2026,08/03/2026,0
+P-330,U-015,L-188,Docente,Ciencias Sociales,Cosquín,01/03/2026,04/03/2026,02/03/2026,0
+P-331,U-044,L-049,Alumno,Informática,Villa María,02/03/2026,09/03/2026,06/03/2026,1
+P-332,U-007,L-028,Alumno,Literatura,Córdoba Capital,02/03/2026,12/03/2026,07/03/2026,0
+P-333,U-032,L-158,Alumno,Literatura,Villa María,02/03/2026,12/03/2026,16/03/2026,0
+P-334,U-044,L-007,Alumno,Informática,Villa María,03/03/2026,06/03/2026,13/03/2026,1
+P-335,U-064,L-018,Docente,Ciencias Sociales,Río Tercero,03/03/2026,10/03/2026,12/03/2026,0
+P-336,U-066,L-061,Docente,Ciencias Sociales,Villa María,04/03/2026,14/03/2026,07/03/2026,0
+P-337,U-099,L-169,Docente,Idiomas,Río Tercero,04/03/2026,11/03/2026,08/03/2026,1
+P-338,U-022,L-076,Docente,Administración,Villa María,04/03/2026,11/03/2026,11/03/2026,0
+P-339,U-055,L-063,Alumno,Matemática,Cosquín,04/03/2026,11/03/2026,11/03/2026,0
+P-340,U-083,L-149,Alumno,Ciencias Sociales,Cosquín,05/03/2026,10/03/2026,10/03/2026,0
+P-341,U-046,L-030,Alumno,Administración,Río Tercero,05/03/2026,15/03/2026,07/03/2026,0
+P-342,U-043,L-175,Alumno,General,Cosquín,06/03/2026,13/03/2026,10/03/2026,1
+P-343,U-016,L-205,Alumno,Administración,Villa María,07/03/2026,21/03/2026,10/03/2026,2
+P-344,U-053,L-114,Alumno,Literatura,Villa María,08/03/2026,11/03/2026,10/03/2026,0
+P-345,U-103,L-183,Alumno,Informática,Cosquín,09/03/2026,16/03/2026,18/03/2026,4
+P-346,U-098,L-181,Alumno,Informática,Cosquín,09/03/2026,19/03/2026,17/03/2026,0
+P-347,U-080,L-057,Alumno,Ciencias Sociales,Cosquín,09/03/2026,16/03/2026,21/03/2026,1
+P-348,U-049,L-047,Alumno,Informática,Cosquín,10/03/2026,13/03/2026,14/03/2026,0
+P-349,U-064,L-135,Docente,Informática,Río Tercero,10/03/2026,17/03/2026,14/03/2026,1
+P-350,U-004,L-048,Alumno,Informática,Río Tercero,10/03/2026,17/03/2026,17/03/2026,0
+P-351,U-020,L-162,Alumno,Administración,Río Tercero,11/03/2026,18/03/2026,13/03/2026,1
+P-352,U-034,L-188,Alumno,Ciencias Sociales,Cosquín,11/03/2026,18/03/2026,18/03/2026,3
+P-353,U-056,L-081,Alumno,Idiomas,Villa María,12/03/2026,26/03/2026,18/03/2026,2
+P-354,U-039,L-029,Alumno,Administración,Córdoba Capital,12/03/2026,19/03/2026,18/03/2026,2
+P-355,U-049,L-186,Alumno,Informática,Cosquín,13/03/2026,20/03/2026,21/03/2026,1
+P-356,U-077,L-099,Docente,Ciencias Sociales,Villa María,13/03/2026,20/03/2026,16/03/2026,0
+P-357,U-081,L-020,Alumno,Matemática,Cosquín,14/03/2026,21/03/2026,22/03/2026,2
+P-358,U-064,L-109,Docente,Matemática,Río Tercero,14/03/2026,17/03/2026,16/03/2026,1
+P-359,U-048,L-135,Alumno,Informática,Cosquín,16/03/2026,26/03/2026,09/04/2026,2
+P-360,U-063,L-086,Docente,General,Cosquín,16/03/2026,19/03/2026,18/03/2026,0
+P-361,U-102,L-021,Alumno,Matemática,Cosquín,16/03/2026,21/03/2026,24/03/2026,3
+P-362,U-065,L-093,Alumno,Informática,Cosquín,17/03/2026,27/03/2026,02/04/2026,0
+P-363,U-040,L-080,Alumno,Idiomas,Cosquín,17/03/2026,20/03/2026,18/03/2026,2
+P-364,U-002,L-047,Docente,Informática,Córdoba Capital,17/03/2026,22/03/2026,22/03/2026,1
+P-365,U-067,L-139,Alumno,Informática,Villa María,17/03/2026,20/03/2026,20/03/2026,1
+P-366,U-069,L-065,Alumno,Matemática,Villa María,18/03/2026,23/03/2026,28/03/2026,4
+P-367,U-016,L-191,Alumno,Ciencias Sociales,Villa María,19/03/2026,29/03/2026,04/04/2026,2
+P-368,U-005,L-059,Docente,Ciencias Sociales,Río Tercero,19/03/2026,26/03/2026,22/03/2026,0
+P-369,U-089,L-033,Alumno,Administración,Cosquín,19/03/2026,26/03/2026,22/03/2026,2
+P-370,U-099,L-200,Docente,Literatura,Río Tercero,20/03/2026,30/03/2026,24/03/2026,1
+P-371,U-096,L-199,Alumno,Matemática,Villa María,20/03/2026,25/03/2026,21/03/2026,0
+P-372,U-072,L-191,Alumno,Ciencias Sociales,Río Tercero,20/03/2026,27/03/2026,29/03/2026,2
+P-373,U-020,L-124,Alumno,Idiomas,Río Tercero,21/03/2026,28/03/2026,28/03/2026,1
+P-374,U-028,L-124,Alumno,Idiomas,Córdoba Capital,21/03/2026,28/03/2026,29/03/2026,2
+P-375,U-022,L-167,Docente,Idiomas,Villa María,21/03/2026,28/03/2026,28/03/2026,0
+P-376,U-066,L-145,Docente,Ciencias Sociales,Villa María,22/03/2026,01/04/2026,23/03/2026,0
+P-377,U-021,L-146,Alumno,Ciencias Sociales,Córdoba Capital,23/03/2026,30/03/2026,31/03/2026,2
+P-378,U-092,L-084,Alumno,Ciencias Naturales,Córdoba Capital,23/03/2026,06/04/2026,06/04/2026,0
+P-379,U-008,L-052,Alumno,Informática,Córdoba Capital,23/03/2026,02/04/2026,07/04/2026,2
+P-380,U-019,L-079,Docente,Idiomas,Villa María,23/03/2026,30/03/2026,28/03/2026,0
+P-381,U-003,L-122,Alumno,Idiomas,Cosquín,24/03/2026,31/03/2026,28/03/2026,1
+P-382,U-065,L-144,Alumno,Ciencias Sociales,Cosquín,24/03/2026,29/03/2026,02/04/2026,1
+P-383,U-007,L-109,Alumno,Matemática,Córdoba Capital,24/03/2026,29/03/2026,26/03/2026,0
+P-384,U-040,L-070,Alumno,Literatura,Cosquín,24/03/2026,31/03/2026,27/03/2026,2
+P-385,U-025,L-155,Alumno,Matemática,Río Tercero,24/03/2026,31/03/2026,30/03/2026,0
+P-386,U-063,L-118,Docente,Administración,Cosquín,25/03/2026,04/04/2026,27/03/2026,0
+P-387,U-079,L-170,Alumno,Ciencias Naturales,Córdoba Capital,25/03/2026,01/04/2026,,0
+P-388,U-036,L-053,Alumno,Informática,Córdoba Capital,26/03/2026,02/04/2026,28/03/2026,1
+P-389,U-014,L-129,Alumno,Ciencias Naturales,Cosquín,26/03/2026,29/03/2026,29/03/2026,0
+P-390,U-067,L-158,Alumno,Literatura,Villa María,26/03/2026,29/03/2026,29/03/2026,1
+P-391,U-076,L-131,Alumno,General,Córdoba Capital,27/03/2026,10/04/2026,08/04/2026,0
+P-392,U-023,L-195,Alumno,Matemática,Córdoba Capital,27/03/2026,03/04/2026,03/04/2026,3
+P-393,U-068,L-079,Alumno,Idiomas,Córdoba Capital,27/03/2026,06/04/2026,01/04/2026,0
+P-394,U-047,L-027,Docente,Literatura,Villa María,28/03/2026,04/04/2026,02/04/2026,0
+P-395,U-006,L-036,Alumno,Idiomas,Villa María,28/03/2026,02/04/2026,30/03/2026,0
+P-396,U-046,L-190,Alumno,Ciencias Sociales,Río Tercero,28/03/2026,04/04/2026,07/04/2026,0
+P-397,U-087,L-089,Alumno,Informática,Cosquín,28/03/2026,04/04/2026,07/04/2026,1
+P-398,U-077,L-076,Docente,Administración,Villa María,29/03/2026,12/04/2026,08/04/2026,0
+P-399,U-090,L-196,Docente,Matemática,Córdoba Capital,30/03/2026,04/04/2026,31/03/2026,0
+P-400,U-048,L-093,Alumno,Informática,Cosquín,30/03/2026,13/04/2026,18/04/2026,3
+P-401,U-041,L-123,Alumno,Idiomas,Córdoba Capital,30/03/2026,13/04/2026,05/04/2026,0
+P-402,U-074,L-129,Alumno,Ciencias Naturales,Río Tercero,31/03/2026,03/04/2026,02/04/2026,1
+P-403,U-002,L-005,Docente,Informática,Córdoba Capital,01/04/2026,04/04/2026,03/04/2026,1
+P-404,U-005,L-061,Docente,Ciencias Sociales,Río Tercero,01/04/2026,08/04/2026,04/04/2026,0
+P-405,U-019,L-141,Docente,Informática,Villa María,02/04/2026,09/04/2026,03/04/2026,0
+P-406,U-045,L-091,Alumno,Informática,Córdoba Capital,02/04/2026,05/04/2026,07/04/2026,2
+P-407,U-069,L-170,Alumno,Ciencias Naturales,Villa María,02/04/2026,16/04/2026,17/04/2026,5
+P-408,U-074,L-008,Alumno,Informática,Río Tercero,02/04/2026,16/04/2026,06/04/2026,1
+P-409,U-097,L-018,Alumno,Ciencias Sociales,Río Tercero,03/04/2026,17/04/2026,12/04/2026,0
+P-410,U-048,L-024,Alumno,Literatura,Cosquín,03/04/2026,10/04/2026,11/04/2026,4
+P-411,U-054,L-093,Alumno,Informática,Villa María,03/04/2026,13/04/2026,07/04/2026,0
+P-412,U-064,L-039,Docente,Ciencias Naturales,Río Tercero,03/04/2026,08/04/2026,04/04/2026,1
+P-413,U-074,L-060,Alumno,Ciencias Sociales,Río Tercero,04/04/2026,09/04/2026,05/04/2026,1
+P-414,U-101,L-006,Alumno,Informática,Río Tercero,04/04/2026,14/04/2026,16/04/2026,3
+P-415,U-059,L-017,Alumno,Ciencias Sociales,Cosquín,04/04/2026,18/04/2026,20/04/2026,5
+P-416,U-024,L-143,Alumno,Ciencias Sociales,Cosquín,04/04/2026,18/04/2026,17/04/2026,0
+P-417,U-005,L-142,Docente,Informática,Río Tercero,05/04/2026,15/04/2026,12/04/2026,0
+P-418,U-048,L-127,Alumno,Ciencias Naturales,Cosquín,05/04/2026,10/04/2026,23/09/2026,5
+P-419,U-053,L-001,Alumno,Informática,Villa María,05/04/2026,12/04/2026,14/04/2026,0
+P-420,U-084,L-138,Alumno,Informática,Villa María,07/04/2026,12/04/2026,20/04/2026,0
+P-421,U-010,L-074,Alumno,Administración,Cosquín,08/04/2026,15/04/2026,11/04/2026,0
+P-422,U-043,L-050,Alumno,Informática,Cosquín,08/04/2026,15/04/2026,09/04/2026,1
+P-423,U-054,L-043,Alumno,General,Villa María,08/04/2026,18/04/2026,16/04/2026,0
+P-424,U-071,L-131,Alumno,General,Río Tercero,09/04/2026,12/04/2026,12/04/2026,0
+P-425,U-028,L-115,Alumno,Literatura,Córdoba Capital,10/04/2026,24/04/2026,14/04/2026,3
+P-426,U-077,L-174,Docente,General,Villa María,10/04/2026,17/04/2026,13/04/2026,0
+P-427,U-100,L-128,Alumno,Ciencias Naturales,Cosquín,11/04/2026,21/04/2026,15/04/2026,0
+P-428,U-092,L-196,Alumno,Matemática,Córdoba Capital,12/04/2026,22/04/2026,14/04/2026,0
+P-429,U-066,L-083,Docente,Ciencias Naturales,Villa María,12/04/2026,19/04/2026,16/04/2026,0
+P-430,U-074,L-023,Alumno,Matemática,Río Tercero,12/04/2026,19/04/2026,14/04/2026,1
+P-431,U-036,L-156,Alumno,Literatura,Córdoba Capital,12/04/2026,15/04/2026,14/04/2026,1
+P-432,U-077,L-071,Docente,Literatura,Villa María,12/04/2026,19/04/2026,14/04/2026,0
+P-433,U-061,L-075,Alumno,Administración,Río Tercero,12/04/2026,19/04/2026,13/04/2026,3
+P-434,U-080,L-095,Alumno,Informática,Cosquín,13/04/2026,27/04/2026,05/05/2026,2
+P-435,U-086,L-169,Alumno,Idiomas,Córdoba Capital,13/04/2026,23/04/2026,19/04/2026,0
+P-436,U-019,L-201,Docente,Literatura,Villa María,13/04/2026,27/04/2026,21/04/2026,0
+P-437,U-068,L-038,Alumno,Ciencias Naturales,Córdoba Capital,13/04/2026,23/04/2026,16/04/2026,0
+P-438,U-023,L-101,Alumno,Ciencias Sociales,Córdoba Capital,14/04/2026,21/04/2026,,3
+P-439,U-100,L-123,Alumno,Idiomas,Cosquín,14/04/2026,24/04/2026,18/04/2026,0
+P-440,U-059,L-186,Alumno,Informática,Cosquín,15/04/2026,29/04/2026,,6
+P-441,U-060,L-014,Docente,Ciencias Sociales,Córdoba Capital,15/04/2026,25/04/2026,23/04/2026,2
+P-442,U-026,L-156,Alumno,Literatura,Córdoba Capital,15/04/2026,29/04/2026,27/04/2026,1
+P-443,U-036,L-055,Alumno,Ciencias Sociales,Córdoba Capital,16/04/2026,23/04/2026,29/04/2026,1
+P-444,U-010,L-104,Alumno,Ciencias Sociales,Cosquín,16/04/2026,30/04/2026,28/04/2026,0
+P-445,U-022,L-198,Docente,Matemática,Villa María,16/04/2026,23/04/2026,19/04/2026,0
+P-446,U-097,L-141,Alumno,Informática,Río Tercero,16/04/2026,19/04/2026,18/04/2026,0
+P-447,U-063,L-128,Docente,Ciencias Naturales,Cosquín,17/04/2026,22/04/2026,19/04/2026,0
+P-448,U-044,L-088,Alumno,General,Villa María,17/04/2026,20/04/2026,24/04/2026,2
+P-449,U-012,L-132,Alumno,General,Córdoba Capital,17/04/2026,24/04/2026,18/04/2026,1
+P-450,U-005,L-031,Docente,Administración,Río Tercero,18/04/2026,25/04/2026,20/04/2026,0
+P-451,U-044,L-199,Alumno,Matemática,Villa María,18/04/2026,02/05/2026,05/05/2026,3
+P-452,U-001,L-180,Alumno,Informática,Río Tercero,18/04/2026,28/04/2026,02/05/2026,0
+P-453,U-062,L-073,Alumno,Administración,Villa María,18/04/2026,23/04/2026,19/04/2026,0
+P-454,U-038,L-203,Alumno,Literatura,Cosquín,19/04/2026,26/04/2026,30/04/2026,2
+P-455,U-024,L-167,Alumno,Idiomas,Cosquín,19/04/2026,26/04/2026,23/04/2026,0
+P-456,U-089,L-061,Alumno,Ciencias Sociales,Cosquín,19/04/2026,03/05/2026,06/05/2026,2
+P-457,U-043,L-168,Alumno,Idiomas,Cosquín,19/04/2026,26/04/2026,14/08/2026,1
+P-458,U-062,L-092,Alumno,Informática,Villa María,19/04/2026,22/04/2026,20/04/2026,0
+P-459,U-026,L-002,Alumno,Informática,Córdoba Capital,20/04/2026,27/04/2026,23/04/2026,1
+P-460,U-059,L-094,Alumno,Informática,Cosquín,20/04/2026,25/04/2026,29/04/2026,6
+P-461,U-001,L-183,Alumno,Informática,Río Tercero,21/04/2026,26/04/2026,,1
+P-462,U-090,L-105,Docente,Ciencias Sociales,Córdoba Capital,22/04/2026,02/05/2026,01/05/2026,0
+P-463,U-014,L-014,Alumno,Ciencias Sociales,Cosquín,23/04/2026,03/05/2026,01/05/2026,0
+P-464,U-068,L-016,Alumno,Ciencias Sociales,Córdoba Capital,24/04/2026,08/05/2026,29/04/2026,0
+P-465,U-007,L-168,Alumno,Idiomas,Córdoba Capital,24/04/2026,08/05/2026,11/05/2026,0
+P-466,U-087,L-035,Alumno,Idiomas,Cosquín,24/04/2026,01/05/2026,,2
+P-467,U-078,L-073,Alumno,Administración,Córdoba Capital,25/04/2026,30/04/2026,03/05/2026,3
+P-468,U-021,L-136,Alumno,Informática,Córdoba Capital,25/04/2026,02/05/2026,28/04/2026,3
+P-469,U-068,L-109,Alumno,Matemática,Córdoba Capital,26/04/2026,06/05/2026,12/05/2026,0
+P-470,U-035,L-061,Alumno,Ciencias Sociales,Cosquín,26/04/2026,06/05/2026,10/05/2026,6
+P-471,U-082,L-084,Alumno,Ciencias Naturales,Villa María,26/04/2026,29/04/2026,27/04/2026,0
+P-472,U-040,L-142,Alumno,Informática,Cosquín,26/04/2026,01/05/2026,03/05/2026,2
+P-473,U-085,L-007,Alumno,Informática,Cosquín,27/04/2026,11/05/2026,16/05/2026,0
+P-474,U-085,L-095,Alumno,Informática,Cosquín,28/04/2026,05/05/2026,05/05/2026,1
+P-475,U-035,L-074,Alumno,Administración,Cosquín,29/04/2026,09/05/2026,13/05/2026,7
+P-476,U-027,L-094,Alumno,Informática,Villa María,30/04/2026,03/05/2026,02/05/2026,0
+P-477,U-043,L-136,Alumno,Informática,Cosquín,30/04/2026,14/05/2026,16/05/2026,2
+P-478,U-046,L-064,Alumno,Matemática,Río Tercero,30/04/2026,14/05/2026,09/05/2026,1
+P-479,U-028,L-119,Alumno,Administración,Córdoba Capital,30/04/2026,10/05/2026,11/05/2026,3
+P-480,U-054,L-102,Alumno,Ciencias Sociales,Villa María,30/04/2026,14/05/2026,06/05/2026,0
+P-481,U-058,L-068,Alumno,Literatura,Villa María,30/04/2026,10/05/2026,06/05/2026,0
+P-482,U-046,L-132,Alumno,General,Río Tercero,02/05/2026,16/05/2026,15/05/2026,1
+P-483,U-080,L-172,Alumno,Ciencias Naturales,Cosquín,03/05/2026,06/05/2026,05/05/2026,3
+P-484,U-050,L-133,Alumno,Informática,Córdoba Capital,03/05/2026,08/05/2026,12/05/2026,0
+P-485,U-053,L-090,Alumno,Informática,Villa María,03/05/2026,08/05/2026,13/05/2026,1
+P-486,U-086,L-118,Alumno,Administración,Córdoba Capital,03/05/2026,08/05/2026,07/05/2026,0
+P-487,U-038,L-159,Alumno,Literatura,Cosquín,04/05/2026,11/05/2026,05/05/2026,3
+P-488,U-037,L-044,Alumno,General,Cosquín,04/05/2026,11/05/2026,15/05/2026,1
+P-489,U-072,L-145,Alumno,Ciencias Sociales,Río Tercero,04/05/2026,11/05/2026,14/05/2026,3
+P-490,U-034,L-084,Alumno,Ciencias Naturales,Cosquín,05/05/2026,19/05/2026,07/12/2026,3
+P-491,U-006,L-118,Alumno,Administración,Villa María,05/05/2026,12/05/2026,11/05/2026,0
+P-492,U-066,L-051,Docente,Informática,Villa María,07/05/2026,21/05/2026,12/05/2026,0
+P-493,U-076,L-027,Alumno,Literatura,Córdoba Capital,07/05/2026,17/05/2026,09/05/2026,0
+P-494,U-086,L-186,Alumno,Informática,Córdoba Capital,07/05/2026,14/05/2026,11/05/2026,0
+P-495,U-085,L-022,Alumno,Matemática,Cosquín,08/05/2026,15/05/2026,19/05/2026,1
+P-496,U-057,L-017,Alumno,Ciencias Sociales,Córdoba Capital,09/05/2026,19/05/2026,15/05/2026,0
+P-497,U-066,L-110,Docente,Matemática,Villa María,09/05/2026,12/05/2026,11/05/2026,0
+P-498,U-044,L-091,Alumno,Informática,Villa María,10/05/2026,17/05/2026,13/05/2026,4
+P-499,U-074,L-190,Alumno,Ciencias Sociales,Río Tercero,11/05/2026,25/05/2026,27/05/2026,1
+P-500,U-064,L-088,Docente,General,Río Tercero,11/05/2026,18/05/2026,25/05/2026,1
+P-501,U-038,L-150,Alumno,Ciencias Sociales,Cosquín,11/05/2026,18/05/2026,31/05/2026,3
+P-502,U-022,L-119,Docente,Administración,Villa María,12/05/2026,19/05/2026,16/05/2026,0
+P-503,U-076,L-071,Alumno,Literatura,Córdoba Capital,12/05/2026,19/05/2026,16/05/2026,0
+P-504,U-082,L-181,Alumno,Informática,Villa María,13/05/2026,23/05/2026,24/05/2026,0
+P-505,U-027,L-057,Alumno,Ciencias Sociales,Villa María,14/05/2026,21/05/2026,19/05/2026,0
+P-506,U-095,L-084,Alumno,Ciencias Naturales,Villa María,14/05/2026,21/05/2026,20/05/2026,0
+P-507,U-067,L-049,Alumno,Informática,Villa María,14/05/2026,21/05/2026,17/05/2026,1
+P-508,U-009,L-013,Alumno,Ciencias Sociales,Cosquín,15/05/2026,22/05/2026,26/05/2026,0
+P-509,U-013,L-108,Docente,Matemática,Villa María,15/05/2026,29/05/2026,23/05/2026,1
+P-510,U-014,L-023,Alumno,Matemática,Cosquín,17/05/2026,20/05/2026,18/05/2026,0
+P-511,U-042,L-101,Alumno,Ciencias Sociales,Cosquín,18/05/2026,01/06/2026,26/05/2026,1
+P-512,U-004,L-199,Alumno,Matemática,Río Tercero,18/05/2026,28/05/2026,28/05/2026,0
+P-513,U-056,L-185,Alumno,Informática,Villa María,19/05/2026,26/05/2026,28/05/2026,2
+P-514,U-025,L-166,Alumno,Idiomas,Río Tercero,20/05/2026,03/06/2026,27/05/2026,0
+P-515,U-095,L-127,Alumno,Ciencias Naturales,Villa María,20/05/2026,30/05/2026,22/05/2026,0
+P-516,U-068,L-149,Alumno,Ciencias Sociales,Córdoba Capital,21/05/2026,26/05/2026,23/05/2026,1
+P-517,U-103,L-093,Alumno,Informática,Cosquín,21/05/2026,28/05/2026,23/05/2026,5
+P-518,U-064,L-037,Docente,Idiomas,Río Tercero,22/05/2026,27/05/2026,24/05/2026,2
+P-519,U-016,L-155,Alumno,Matemática,Villa María,22/05/2026,27/05/2026,29/05/2026,3
+P-520,U-093,L-016,Docente,Ciencias Sociales,Córdoba Capital,22/05/2026,27/05/2026,29/05/2026,4
+P-521,U-102,L-091,Alumno,Informática,Cosquín,23/05/2026,28/05/2026,30/05/2026,4
+P-522,U-094,L-157,Alumno,Literatura,Cosquín,24/05/2026,03/06/2026,04/06/2026,3
+P-523,U-018,L-179,Alumno,Informática,Río Tercero,24/05/2026,07/06/2026,28/05/2026,0
+P-524,U-099,L-178,Docente,Informática,Río Tercero,25/05/2026,08/06/2026,30/05/2026,1
+P-525,U-006,L-195,Alumno,Matemática,Villa María,26/05/2026,05/06/2026,12/06/2026,0
+P-526,U-059,L-191,Alumno,Ciencias Sociales,Cosquín,27/05/2026,03/06/2026,07/06/2026,7
+P-527,U-020,L-083,Alumno,Ciencias Naturales,Río Tercero,27/05/2026,10/06/2026,01/06/2026,1
+P-528,U-101,L-072,Alumno,Literatura,Río Tercero,28/05/2026,31/05/2026,,4
+P-529,U-032,L-176,Alumno,General,Villa María,28/05/2026,11/06/2026,10/06/2026,1
+P-530,U-035,L-117,Alumno,Administración,Cosquín,28/05/2026,02/06/2026,,8
+P-531,U-023,L-105,Alumno,Ciencias Sociales,Córdoba Capital,29/05/2026,12/06/2026,21/06/2026,3
+P-532,U-057,L-184,Alumno,Informática,Córdoba Capital,29/05/2026,05/06/2026,04/06/2026,0
+P-533,U-001,L-006,Alumno,Informática,Río Tercero,29/05/2026,08/06/2026,07/06/2026,1
+P-534,U-091,L-197,Alumno,Matemática,Cosquín,29/05/2026,05/06/2026,,2
+P-535,U-098,L-041,Alumno,Ciencias Naturales,Cosquín,30/05/2026,02/06/2026,01/06/2026,0
+P-536,U-099,L-005,Docente,Informática,Río Tercero,30/05/2026,13/06/2026,03/06/2026,1
+P-537,U-054,L-121,Alumno,Administración,Villa María,31/05/2026,14/06/2026,03/06/2026,0
+P-538,U-002,L-142,Docente,Informática,Córdoba Capital,01/06/2026,15/06/2026,05/06/2026,1
+P-539,U-076,L-047,Alumno,Informática,Córdoba Capital,01/06/2026,06/06/2026,04/06/2026,0
+P-540,U-024,L-065,Alumno,Matemática,Cosquín,01/06/2026,08/06/2026,02/06/2026,0
+P-541,U-013,L-070,Docente,Literatura,Villa María,01/06/2026,04/06/2026,04/06/2026,1
+P-542,U-101,L-147,Alumno,Ciencias Sociales,Río Tercero,01/06/2026,08/06/2026,07/06/2026,4
+P-543,U-002,L-134,Docente,Informática,Córdoba Capital,02/06/2026,16/06/2026,09/06/2026,1
+P-544,U-011,L-103,Alumno,Ciencias Sociales,Cosquín,02/06/2026,07/06/2026,07/06/2026,0
+P-545,U-079,L-199,Alumno,Matemática,Córdoba Capital,02/06/2026,09/06/2026,03/06/2026,0
+P-546,U-052,L-002,Alumno,Informática,Cosquín,02/06/2026,12/06/2026,19/06/2026,2
+P-547,U-082,L-040,Alumno,Ciencias Naturales,Villa María,02/06/2026,12/06/2026,08/06/2026,1
+P-548,U-021,L-109,Alumno,Matemática,Córdoba Capital,03/06/2026,10/06/2026,14/06/2026,3
+P-549,U-099,L-163,Docente,Administración,Río Tercero,03/06/2026,10/06/2026,05/06/2026,1
+P-550,U-076,L-094,Alumno,Informática,Córdoba Capital,03/06/2026,10/06/2026,07/06/2026,0
+P-551,U-007,L-145,Alumno,Ciencias Sociales,Córdoba Capital,04/06/2026,18/06/2026,15/06/2026,1
+P-552,U-063,L-148,Docente,Ciencias Sociales,Cosquín,04/06/2026,18/06/2026,18/06/2026,0
+P-553,U-059,L-183,Alumno,Informática,Cosquín,04/06/2026,11/06/2026,12/06/2026,8
+P-554,U-017,L-128,Alumno,Ciencias Naturales,Río Tercero,04/06/2026,18/06/2026,09/06/2026,0
+P-555,U-033,L-035,Alumno,Idiomas,Villa María,05/06/2026,10/06/2026,07/06/2026,0
+P-556,U-094,L-069,Alumno,Literatura,Cosquín,06/06/2026,13/06/2026,23/06/2026,4
+P-557,U-002,L-063,Docente,Matemática,Córdoba Capital,06/06/2026,13/06/2026,13/06/2026,1
+P-558,U-073,L-077,Alumno,Administración,Río Tercero,07/06/2026,21/06/2026,15/06/2026,0
+P-559,U-006,L-102,Alumno,Ciencias Sociales,Villa María,07/06/2026,14/06/2026,08/06/2026,1
+P-560,U-045,L-048,Alumno,Informática,Córdoba Capital,07/06/2026,21/06/2026,27/06/2026,3
+P-561,U-079,L-044,Alumno,General,Córdoba Capital,07/06/2026,21/06/2026,09/06/2026,0
+P-562,U-065,L-141,Alumno,Informática,Cosquín,08/06/2026,18/06/2026,20/06/2026,2
+P-563,U-050,L-048,Alumno,Informática,Córdoba Capital,10/06/2026,13/06/2026,13/06/2026,1
+P-564,U-082,L-158,Alumno,Literatura,Villa María,10/06/2026,24/06/2026,14/06/2026,1
+P-565,U-039,L-203,Alumno,Literatura,Córdoba Capital,11/06/2026,18/06/2026,15/06/2026,2
+P-566,U-066,L-151,Docente,Matemática,Villa María,11/06/2026,14/06/2026,13/06/2026,0
+P-567,U-094,L-170,Alumno,Ciencias Naturales,Cosquín,11/06/2026,25/06/2026,29/06/2026,5
+P-568,U-080,L-106,Alumno,Ciencias Sociales,Cosquín,12/06/2026,19/06/2026,27/06/2026,3
+P-569,U-077,L-118,Docente,Administración,Villa María,12/06/2026,26/06/2026,25/06/2026,0
+P-570,U-095,L-075,Alumno,Administración,Villa María,13/06/2026,27/06/2026,20/06/2026,0
+P-571,U-043,L-061,Alumno,Ciencias Sociales,Cosquín,13/06/2026,23/06/2026,25/06/2026,3
+P-572,U-024,L-041,Alumno,Ciencias Naturales,Cosquín,13/06/2026,20/06/2026,24/06/2026,0
+P-573,U-030,L-100,Alumno,Ciencias Sociales,Cosquín,13/06/2026,23/06/2026,19/06/2026,0
+P-574,U-066,L-142,Docente,Informática,Villa María,13/06/2026,23/06/2026,21/06/2026,0
+P-575,U-085,L-070,Alumno,Literatura,Cosquín,14/06/2026,28/06/2026,27/06/2026,2
+P-576,U-101,L-034,Alumno,Idiomas,Río Tercero,14/06/2026,21/06/2026,15/06/2026,4
+P-577,U-049,L-100,Alumno,Ciencias Sociales,Cosquín,14/06/2026,17/06/2026,24/06/2026,2
+P-578,U-068,L-163,Alumno,Administración,Córdoba Capital,14/06/2026,28/06/2026,11/07/2026,1
+P-579,U-062,L-124,Alumno,Idiomas,Villa María,15/06/2026,29/06/2026,27/06/2026,0
+P-580,U-012,L-174,Alumno,General,Córdoba Capital,15/06/2026,22/06/2026,01/07/2026,1
+P-581,U-100,L-148,Alumno,Ciencias Sociales,Cosquín,16/06/2026,30/06/2026,01/07/2026,0
+P-582,U-032,L-004,Alumno,Informática,Villa María,17/06/2026,27/06/2026,18/06/2026,1
+P-583,U-022,L-017,Docente,Ciencias Sociales,Villa María,17/06/2026,24/06/2026,18/06/2026,0
+P-584,U-022,L-121,Docente,Administración,Villa María,17/06/2026,24/06/2026,18/06/2026,0
+P-585,U-101,L-120,Alumno,Administración,Río Tercero,17/06/2026,22/06/2026,25/06/2026,4
+P-586,U-042,L-034,Alumno,Idiomas,Cosquín,17/06/2026,22/06/2026,25/06/2026,1
+P-587,U-078,L-075,Alumno,Administración,Córdoba Capital,17/06/2026,27/06/2026,28/06/2026,4
+P-588,U-080,L-132,Alumno,General,Cosquín,18/06/2026,02/07/2026,08/07/2026,4
+P-589,U-005,L-161,Docente,Administración,Río Tercero,18/06/2026,02/07/2026,28/06/2026,0
+P-590,U-103,L-167,Alumno,Idiomas,Cosquín,19/06/2026,03/07/2026,04/07/2026,5
+P-591,U-006,L-040,Alumno,Ciencias Naturales,Villa María,19/06/2026,22/06/2026,21/06/2026,1
+P-592,U-003,L-121,Alumno,Administración,Cosquín,19/06/2026,22/06/2026,,1
+P-593,U-080,L-054,Alumno,Informática,Cosquín,20/06/2026,25/06/2026,26/06/2026,5
+P-594,U-045,L-124,Alumno,Idiomas,Córdoba Capital,20/06/2026,25/06/2026,27/06/2026,4
+P-595,U-055,L-156,Alumno,Literatura,Cosquín,20/06/2026,23/06/2026,21/06/2026,0
+P-596,U-059,L-011,Alumno,Ciencias Sociales,Cosquín,21/06/2026,24/06/2026,25/06/2026,9
+P-597,U-064,L-099,Docente,Ciencias Sociales,Río Tercero,21/06/2026,28/06/2026,27/06/2026,2
+P-598,U-061,L-096,Alumno,Informática,Río Tercero,21/06/2026,05/07/2026,10/07/2026,3
+P-599,U-074,L-027,Alumno,Literatura,Río Tercero,21/06/2026,28/06/2026,04/07/2026,2
+P-600,U-090,L-018,Docente,Ciencias Sociales,Córdoba Capital,22/06/2026,06/07/2026,24/06/2026,0
+P-601,U-061,L-082,Alumno,Ciencias Naturales,Río Tercero,22/06/2026,27/06/2026,06/07/2026,4
+P-602,U-059,L-058,Alumno,Ciencias Sociales,Cosquín,22/06/2026,02/07/2026,12/01/2027,10
+P-603,U-076,L-181,Alumno,Informática,Córdoba Capital,24/06/2026,08/07/2026,12/07/2026,0
+P-604,U-098,L-135,Alumno,Informática,Cosquín,24/06/2026,08/07/2026,30/06/2026,0
+P-605,U-093,L-183,Docente,Informática,Córdoba Capital,24/06/2026,01/07/2026,08/07/2026,5
+P-606,U-010,L-138,Alumno,Informática,Cosquín,24/06/2026,01/07/2026,01/07/2026,0
+P-607,U-054,L-006,Alumno,Informática,Villa María,24/06/2026,04/07/2026,26/06/2026,0
+P-608,U-038,L-136,Alumno,Informática,Cosquín,25/06/2026,30/06/2026,02/07/2026,4
+P-609,U-037,L-200,Alumno,Literatura,Cosquín,25/06/2026,05/07/2026,29/06/2026,2
+P-610,U-072,L-193,Alumno,Ciencias Sociales,Río Tercero,25/06/2026,09/07/2026,12/07/2026,4
+P-611,U-041,L-152,Alumno,Matemática,Córdoba Capital,26/06/2026,29/06/2026,27/06/2026,0
+P-612,U-099,L-148,Docente,Ciencias Sociales,Río Tercero,26/06/2026,06/07/2026,05/07/2026,1
+P-613,U-037,L-071,Alumno,Literatura,Cosquín,26/06/2026,03/07/2026,28/06/2026,2
+P-614,U-082,L-112,Alumno,Literatura,Villa María,27/06/2026,04/07/2026,30/06/2026,1
+P-615,U-092,L-070,Alumno,Literatura,Córdoba Capital,27/06/2026,30/06/2026,28/06/2026,0
+P-616,U-093,L-022,Docente,Matemática,Córdoba Capital,28/06/2026,12/07/2026,,6
+P-617,U-098,L-008,Alumno,Informática,Cosquín,28/06/2026,05/07/2026,07/07/2026,0
+P-618,U-087,L-018,Alumno,Ciencias Sociales,Cosquín,28/06/2026,05/07/2026,07/07/2026,2
+P-619,U-096,L-080,Alumno,Idiomas,Villa María,29/06/2026,06/07/2026,01/07/2026,0
+P-620,U-087,L-044,Alumno,General,Cosquín,29/06/2026,06/07/2026,08/07/2026,3
+P-621,U-100,L-176,Alumno,General,Cosquín,29/06/2026,09/07/2026,15/07/2026,1
+P-622,U-099,L-124,Docente,Idiomas,Río Tercero,29/06/2026,04/07/2026,02/07/2026,1
+P-623,U-100,L-194,Alumno,Ciencias Sociales,Cosquín,29/06/2026,13/07/2026,16/07/2026,2
+P-624,U-008,L-179,Alumno,Informática,Córdoba Capital,29/06/2026,06/07/2026,12/07/2026,3
+P-625,U-034,L-092,Alumno,Informática,Cosquín,29/06/2026,13/07/2026,16/07/2026,4
+P-626,U-017,L-040,Alumno,Ciencias Naturales,Río Tercero,30/06/2026,07/07/2026,07/07/2026,0
+P-627,U-011,L-133,Alumno,Informática,Cosquín,01/07/2026,11/07/2026,16/07/2026,0
+P-628,U-073,L-022,Alumno,Matemática,Río Tercero,02/07/2026,07/07/2026,05/07/2026,0
+P-629,U-068,L-177,Alumno,Informática,Córdoba Capital,02/07/2026,09/07/2026,07/07/2026,2
+P-630,U-096,L-014,Alumno,Ciencias Sociales,Villa María,02/07/2026,16/07/2026,10/07/2026,0
+P-631,U-092,L-191,Alumno,Ciencias Sociales,Córdoba Capital,03/07/2026,06/07/2026,04/07/2026,0
+P-632,U-088,L-182,Alumno,Informática,Villa María,03/07/2026,13/07/2026,17/07/2026,0
+P-633,U-071,L-048,Alumno,Informática,Río Tercero,03/07/2026,10/07/2026,09/07/2026,0
+P-634,U-023,L-144,Alumno,Ciencias Sociales,Córdoba Capital,03/07/2026,10/07/2026,15/07/2026,4
+P-635,U-103,L-175,Alumno,General,Cosquín,03/07/2026,08/07/2026,10/07/2026,6
+P-636,U-044,L-015,Alumno,Ciencias Sociales,Villa María,04/07/2026,18/07/2026,07/07/2026,4
+P-637,U-083,L-063,Alumno,Matemática,Cosquín,04/07/2026,11/07/2026,09/07/2026,0
+P-638,U-037,L-104,Alumno,Ciencias Sociales,Cosquín,04/07/2026,09/07/2026,18/07/2026,2
+P-639,U-043,L-096,Alumno,Informática,Cosquín,04/07/2026,11/07/2026,14/07/2026,4
+P-640,U-019,L-062,Docente,Ciencias Sociales,Villa María,05/07/2026,12/07/2026,09/07/2026,0
+P-641,U-008,L-038,Alumno,Ciencias Naturales,Córdoba Capital,06/07/2026,13/07/2026,19/07/2026,4
+P-642,U-015,L-141,Docente,Informática,Cosquín,06/07/2026,13/07/2026,17/07/2026,0
+P-643,U-008,L-152,Alumno,Matemática,Córdoba Capital,07/07/2026,14/07/2026,15/07/2026,5
+P-644,U-005,L-190,Docente,Ciencias Sociales,Río Tercero,07/07/2026,14/07/2026,14/07/2026,0
+P-645,U-002,L-179,Docente,Informática,Córdoba Capital,07/07/2026,14/07/2026,08/07/2026,1
+P-646,U-017,L-026,Alumno,Literatura,Río Tercero,08/07/2026,22/07/2026,22/07/2026,0
+P-647,U-074,L-072,Alumno,Literatura,Río Tercero,08/07/2026,13/07/2026,20/07/2026,3
+P-648,U-022,L-124,Docente,Idiomas,Villa María,09/07/2026,19/07/2026,13/07/2026,0
+P-649,U-069,L-139,Alumno,Informática,Villa María,09/07/2026,16/07/2026,14/07/2026,6
+P-650,U-019,L-046,Docente,Informática,Villa María,10/07/2026,17/07/2026,22/07/2026,0
+P-651,U-102,L-128,Alumno,Ciencias Naturales,Cosquín,10/07/2026,17/07/2026,24/07/2026,5
+P-652,U-025,L-165,Alumno,Administración,Río Tercero,11/07/2026,16/07/2026,15/07/2026,0
+P-653,U-047,L-165,Docente,Administración,Villa María,11/07/2026,16/07/2026,12/07/2026,0
+P-654,U-074,L-082,Alumno,Ciencias Naturales,Río Tercero,12/07/2026,17/07/2026,13/07/2026,4
+P-655,U-077,L-037,Docente,Idiomas,Villa María,13/07/2026,20/07/2026,16/07/2026,0
+P-656,U-006,L-099,Alumno,Ciencias Sociales,Villa María,14/07/2026,21/07/2026,21/07/2026,1
+P-657,U-038,L-118,Alumno,Administración,Cosquín,14/07/2026,21/07/2026,26/07/2026,5
+P-658,U-029,L-004,Alumno,Informática,Cosquín,14/07/2026,17/07/2026,16/07/2026,0
+P-659,U-103,L-141,Alumno,Informática,Cosquín,14/07/2026,28/07/2026,29/07/2026,7
+P-660,U-068,L-058,Alumno,Ciencias Sociales,Córdoba Capital,15/07/2026,22/07/2026,18/07/2026,2
+P-661,U-071,L-163,Alumno,Administración,Río Tercero,15/07/2026,22/07/2026,17/07/2026,0
+P-662,U-053,L-106,Alumno,Ciencias Sociales,Villa María,15/07/2026,22/07/2026,25/07/2026,2
+P-663,U-022,L-132,Docente,General,Villa María,16/07/2026,21/07/2026,17/07/2026,0
+P-664,U-027,L-003,Alumno,Informática,Villa María,16/07/2026,23/07/2026,28/07/2026,0
+P-665,U-020,L-059,Alumno,Ciencias Sociales,Río Tercero,16/07/2026,30/07/2026,26/07/2026,1
+P-666,U-033,L-152,Alumno,Matemática,Villa María,16/07/2026,30/07/2026,28/07/2026,0
+P-667,U-091,L-098,Alumno,Informática,Cosquín,16/07/2026,26/07/2026,29/07/2026,2
+P-668,U-062,L-019,Alumno,Matemática,Villa María,17/07/2026,22/07/2026,22/07/2026,0
+P-669,U-063,L-200,Docente,Literatura,Cosquín,17/07/2026,24/07/2026,25/07/2026,0
+P-670,U-029,L-123,Alumno,Idiomas,Cosquín,17/07/2026,24/07/2026,19/07/2026,0
+P-671,U-051,L-071,Alumno,Literatura,Cosquín,18/07/2026,01/08/2026,24/07/2026,1
+P-672,U-046,L-111,Alumno,Matemática,Río Tercero,19/07/2026,29/07/2026,29/07/2026,1
+P-673,U-061,L-030,Alumno,Administración,Río Tercero,19/07/2026,24/07/2026,,5
+P-674,U-054,L-126,Alumno,Ciencias Naturales,Villa María,19/07/2026,24/07/2026,,0
+P-675,U-081,L-080,Alumno,Idiomas,Cosquín,19/07/2026,24/07/2026,27/07/2026,3
+P-676,U-005,L-041,Docente,Ciencias Naturales,Río Tercero,20/07/2026,30/07/2026,30/07/2026,0
+P-677,U-060,L-033,Docente,Administración,Córdoba Capital,20/07/2026,03/08/2026,04/08/2026,2
+P-678,U-019,L-087,Docente,General,Villa María,20/07/2026,03/08/2026,25/07/2026,1
+P-679,U-096,L-058,Alumno,Ciencias Sociales,Villa María,20/07/2026,25/07/2026,22/07/2026,0
+P-680,U-030,L-031,Alumno,Administración,Cosquín,21/07/2026,04/08/2026,25/07/2026,0
+P-681,U-081,L-161,Alumno,Administración,Cosquín,23/07/2026,30/07/2026,30/07/2026,4
+P-682,U-047,L-116,Docente,Literatura,Villa María,23/07/2026,30/07/2026,24/07/2026,0
+P-683,U-032,L-155,Alumno,Matemática,Villa María,23/07/2026,28/07/2026,08/08/2026,1
+P-684,U-025,L-168,Alumno,Idiomas,Río Tercero,24/07/2026,31/07/2026,27/07/2026,0
+P-685,U-053,L-147,Alumno,Ciencias Sociales,Villa María,24/07/2026,03/08/2026,06/08/2026,3
+P-686,U-062,L-089,Alumno,Informática,Villa María,24/07/2026,31/07/2026,27/07/2026,0
+P-687,U-062,L-104,Alumno,Ciencias Sociales,Villa María,24/07/2026,29/07/2026,25/07/2026,0
+P-688,U-006,L-011,Alumno,Ciencias Sociales,Villa María,26/07/2026,02/08/2026,27/07/2026,1
+P-689,U-090,L-132,Docente,General,Córdoba Capital,28/07/2026,31/07/2026,30/07/2026,0
+P-690,U-002,L-079,Docente,Idiomas,Córdoba Capital,29/07/2026,05/08/2026,04/08/2026,1
+P-691,U-038,L-133,Alumno,Informática,Cosquín,29/07/2026,12/08/2026,15/08/2026,6
+P-692,U-046,L-058,Alumno,Ciencias Sociales,Río Tercero,29/07/2026,08/08/2026,31/07/2026,1
+P-693,U-052,L-084,Alumno,Ciencias Naturales,Cosquín,30/07/2026,13/08/2026,03/08/2026,3
+P-694,U-055,L-159,Alumno,Literatura,Cosquín,30/07/2026,13/08/2026,10/08/2026,0
+P-695,U-059,L-135,Alumno,Informática,Cosquín,31/07/2026,05/08/2026,09/08/2026,11
+P-696,U-086,L-121,Alumno,Administración,Córdoba Capital,31/07/2026,07/08/2026,03/08/2026,0
+P-697,U-059,L-192,Alumno,Ciencias Sociales,Cosquín,01/08/2026,06/08/2026,16/08/2026,12
+P-698,U-053,L-200,Alumno,Literatura,Villa María,03/08/2026,08/08/2026,07/08/2026,4
+P-699,U-078,L-198,Alumno,Matemática,Córdoba Capital,03/08/2026,10/08/2026,11/08/2026,5
+P-700,U-005,L-038,Docente,Ciencias Naturales,Río Tercero,03/08/2026,10/08/2026,10/08/2026,0
+P-701,U-070,L-164,Alumno,Administración,Córdoba Capital,04/08/2026,11/08/2026,10/08/2026,0
+P-702,U-087,L-059,Alumno,Ciencias Sociales,Cosquín,05/08/2026,19/08/2026,,4
+P-703,U-066,L-093,Docente,Informática,Villa María,05/08/2026,10/08/2026,10/08/2026,0
+P-704,U-023,L-170,Alumno,Ciencias Naturales,Córdoba Capital,06/08/2026,20/08/2026,,5
+P-705,U-099,L-167,Docente,Idiomas,Río Tercero,06/08/2026,11/08/2026,12/08/2026,1
+P-706,U-030,L-153,Alumno,Matemática,Cosquín,07/08/2026,14/08/2026,11/08/2026,0
+P-707,U-051,L-176,Alumno,General,Cosquín,07/08/2026,14/08/2026,10/08/2026,1
+P-708,U-085,L-198,Alumno,Matemática,Cosquín,08/08/2026,15/08/2026,16/08/2026,2
+P-709,U-092,L-197,Alumno,Matemática,Córdoba Capital,08/08/2026,13/08/2026,10/08/2026,0
+P-710,U-098,L-026,Alumno,Literatura,Cosquín,08/08/2026,15/08/2026,14/08/2026,1
+P-711,U-016,L-080,Alumno,Idiomas,Villa María,08/08/2026,13/08/2026,,4
+P-712,U-006,L-110,Alumno,Matemática,Villa María,09/08/2026,16/08/2026,13/08/2026,1
+P-713,U-050,L-025,Alumno,Literatura,Córdoba Capital,09/08/2026,23/08/2026,04/09/2026,1
+P-714,U-085,L-061,Alumno,Ciencias Sociales,Cosquín,09/08/2026,12/08/2026,13/08/2026,3
+P-715,U-061,L-016,Alumno,Ciencias Sociales,Río Tercero,09/08/2026,16/08/2026,18/08/2026,5
+P-716,U-024,L-102,Alumno,Ciencias Sociales,Cosquín,11/08/2026,18/08/2026,21/08/2026,1
+P-717,U-046,L-075,Alumno,Administración,Río Tercero,12/08/2026,19/08/2026,17/08/2026,1
+P-718,U-080,L-170,Alumno,Ciencias Naturales,Cosquín,12/08/2026,22/08/2026,28/08/2026,6
+P-719,U-005,L-145,Docente,Ciencias Sociales,Río Tercero,13/08/2026,20/08/2026,17/08/2026,0
+P-720,U-089,L-027,Alumno,Literatura,Cosquín,13/08/2026,27/08/2026,28/08/2026,3
+P-721,U-021,L-124,Alumno,Idiomas,Córdoba Capital,14/08/2026,17/08/2026,19/08/2026,4
+P-722,U-032,L-110,Alumno,Matemática,Villa María,14/08/2026,21/08/2026,21/08/2026,2
+P-723,U-004,L-119,Alumno,Administración,Río Tercero,15/08/2026,22/08/2026,21/08/2026,0
+P-724,U-093,L-144,Docente,Ciencias Sociales,Córdoba Capital,15/08/2026,29/08/2026,01/09/2026,6
+P-725,U-075,L-162,Alumno,Administración,Cosquín,16/08/2026,21/08/2026,25/08/2026,3
+P-726,U-049,L-187,Alumno,Ciencias Sociales,Cosquín,16/08/2026,23/08/2026,24/08/2026,3
+P-727,U-047,L-018,Docente,Ciencias Sociales,Villa María,17/08/2026,24/08/2026,23/08/2026,0
+P-728,U-060,L-063,Docente,Matemática,Córdoba Capital,17/08/2026,27/08/2026,27/08/2026,3
+P-729,U-103,L-139,Alumno,Informática,Cosquín,18/08/2026,23/08/2026,31/08/2026,8
+P-730,U-095,L-162,Alumno,Administración,Villa María,18/08/2026,28/08/2026,26/08/2026,0
+P-731,U-026,L-173,Alumno,Ciencias Naturales,Córdoba Capital,18/08/2026,23/08/2026,24/08/2026,1
+P-732,U-008,L-015,Alumno,Ciencias Sociales,Córdoba Capital,18/08/2026,23/08/2026,26/08/2026,6
+P-733,U-025,L-118,Alumno,Administración,Río Tercero,19/08/2026,29/08/2026,24/08/2026,0
+P-734,U-079,L-025,Alumno,Literatura,Córdoba Capital,19/08/2026,22/08/2026,28/08/2026,0
+P-735,U-006,L-096,Alumno,Informática,Villa María,20/08/2026,27/08/2026,21/08/2026,1
+P-736,U-049,L-188,Alumno,Ciencias Sociales,Cosquín,20/08/2026,30/08/2026,01/09/2026,4
+P-737,U-039,L-162,Alumno,Administración,Córdoba Capital,21/08/2026,04/09/2026,05/09/2026,2
+P-738,U-074,L-201,Alumno,Literatura,Río Tercero,22/08/2026,29/08/2026,06/09/2026,4
+P-739,U-019,L-058,Docente,Ciencias Sociales,Villa María,22/08/2026,29/08/2026,25/08/2026,1
+P-740,U-008,L-191,Alumno,Ciencias Sociales,Córdoba Capital,22/08/2026,29/08/2026,01/09/2026,7
+P-741,U-036,L-127,Alumno,Ciencias Naturales,Córdoba Capital,22/08/2026,25/08/2026,25/08/2026,2
+P-742,U-024,L-103,Alumno,Ciencias Sociales,Cosquín,23/08/2026,30/08/2026,31/08/2026,2
+P-743,U-026,L-073,Alumno,Administración,Córdoba Capital,24/08/2026,03/09/2026,25/08/2026,2
+P-744,U-056,L-132,Alumno,General,Villa María,24/08/2026,07/09/2026,19/09/2026,3
+P-745,U-064,L-020,Docente,Matemática,Río Tercero,24/08/2026,07/09/2026,06/09/2026,2
+P-746,U-055,L-067,Alumno,Matemática,Cosquín,24/08/2026,27/08/2026,27/08/2026,0
+P-747,U-006,L-041,Alumno,Ciencias Naturales,Villa María,24/08/2026,27/08/2026,26/08/2026,1
+P-748,U-027,L-183,Alumno,Informática,Villa María,24/08/2026,31/08/2026,28/08/2026,1
+P-749,U-042,L-158,Alumno,Literatura,Cosquín,25/08/2026,04/09/2026,28/08/2026,2
+P-750,U-078,L-053,Alumno,Informática,Córdoba Capital,25/08/2026,08/09/2026,09/09/2026,6
+P-751,U-060,L-134,Docente,Informática,Córdoba Capital,25/08/2026,01/09/2026,31/08/2026,3
+P-752,U-058,L-126,Alumno,Ciencias Naturales,Villa María,28/08/2026,04/09/2026,04/09/2026,0
+P-753,U-044,L-078,Alumno,Idiomas,Villa María,28/08/2026,07/09/2026,19/09/2026,4
+P-754,U-048,L-127,Alumno,Ciencias Naturales,Cosquín,28/08/2026,31/08/2026,02/09/2026,6
+P-755,U-074,L-193,Alumno,Ciencias Sociales,Río Tercero,28/08/2026,11/09/2026,,5
+P-756,U-001,L-138,Alumno,Informática,Río Tercero,28/08/2026,04/09/2026,07/09/2026,1
+P-757,U-071,L-170,Alumno,Ciencias Naturales,Río Tercero,28/08/2026,02/09/2026,29/08/2026,0
+P-758,U-091,L-059,Alumno,Ciencias Sociales,Cosquín,29/08/2026,08/09/2026,14/02/2027,3
+P-759,U-005,L-009,Docente,Informática,Río Tercero,30/08/2026,13/09/2026,03/09/2026,0
+P-760,U-082,L-110,Alumno,Matemática,Villa María,31/08/2026,14/09/2026,08/09/2026,1
+P-761,U-087,L-171,Alumno,Ciencias Naturales,Cosquín,01/09/2026,15/09/2026,,4
+P-762,U-058,L-053,Alumno,Informática,Villa María,01/09/2026,08/09/2026,09/09/2026,0
+P-763,U-081,L-095,Alumno,Informática,Cosquín,02/09/2026,16/09/2026,,4
+P-764,U-055,L-027,Alumno,Literatura,Cosquín,03/09/2026,08/09/2026,07/09/2026,0
+P-765,U-004,L-147,Alumno,Ciencias Sociales,Río Tercero,04/09/2026,18/09/2026,19/09/2026,0
+P-766,U-031,L-117,Alumno,Administración,Córdoba Capital,04/09/2026,11/09/2026,07/09/2026,1
+P-767,U-084,L-178,Alumno,Informática,Villa María,04/09/2026,14/09/2026,08/09/2026,1
+P-768,U-039,L-140,Alumno,Informática,Córdoba Capital,04/09/2026,09/09/2026,12/09/2026,3
+P-769,U-095,L-183,Alumno,Informática,Villa María,04/09/2026,18/09/2026,11/09/2026,0
+P-770,U-011,L-118,Alumno,Administración,Cosquín,06/09/2026,09/09/2026,08/09/2026,1
+P-771,U-097,L-043,Alumno,General,Río Tercero,06/09/2026,13/09/2026,10/09/2026,0
+P-772,U-103,L-100,Alumno,Ciencias Sociales,Cosquín,06/09/2026,16/09/2026,24/09/2026,9
+P-773,U-078,L-163,Alumno,Administración,Córdoba Capital,06/09/2026,09/09/2026,15/09/2026,7
+P-774,U-028,L-062,Alumno,Ciencias Sociales,Córdoba Capital,06/09/2026,13/09/2026,14/09/2026,4
+P-775,U-026,L-086,Alumno,General,Córdoba Capital,07/09/2026,17/09/2026,12/09/2026,2
+P-776,U-093,L-061,Docente,Ciencias Sociales,Córdoba Capital,07/09/2026,17/09/2026,24/09/2026,7
+P-777,U-017,L-130,Alumno,General,Río Tercero,08/09/2026,22/09/2026,21/09/2026,0
+P-778,U-032,L-174,Alumno,General,Villa María,08/09/2026,22/09/2026,09/09/2026,2
+P-779,U-019,L-165,Docente,Administración,Villa María,08/09/2026,13/09/2026,09/09/2026,1
+P-780,U-077,L-020,Docente,Matemática,Villa María,08/09/2026,11/09/2026,10/09/2026,0
+P-781,U-031,L-019,Alumno,Matemática,Córdoba Capital,08/09/2026,15/09/2026,11/09/2026,1
+P-782,U-039,L-085,Alumno,Ciencias Naturales,Córdoba Capital,09/09/2026,16/09/2026,15/09/2026,4
+P-783,U-077,L-158,Docente,Literatura,Villa María,09/09/2026,16/09/2026,10/09/2026,0
+P-784,U-067,L-179,Alumno,Informática,Villa María,10/09/2026,24/09/2026,14/09/2026,1
+P-785,U-081,L-173,Alumno,Ciencias Naturales,Cosquín,10/09/2026,17/09/2026,,4
+P-786,U-059,L-197,Alumno,Matemática,Cosquín,11/09/2026,25/09/2026,,13
+P-787,U-017,L-044,Alumno,General,Río Tercero,11/09/2026,18/09/2026,,0
+P-788,U-015,L-068,Docente,Literatura,Cosquín,11/09/2026,25/09/2026,16/09/2026,1
+P-789,U-014,L-118,Alumno,Administración,Cosquín,12/09/2026,19/09/2026,16/09/2026,0
+P-790,U-098,L-104,Alumno,Ciencias Sociales,Cosquín,12/09/2026,19/09/2026,21/09/2026,1
+P-791,U-070,L-047,Alumno,Informática,Córdoba Capital,12/09/2026,19/09/2026,25/09/2026,0
+P-792,U-090,L-117,Docente,Administración,Córdoba Capital,12/09/2026,17/09/2026,16/09/2026,0
+P-793,U-008,L-053,Alumno,Informática,Córdoba Capital,12/09/2026,19/09/2026,20/09/2026,8
+P-794,U-009,L-021,Alumno,Matemática,Cosquín,12/09/2026,19/09/2026,16/09/2026,1
+P-795,U-058,L-018,Alumno,Ciencias Sociales,Villa María,13/09/2026,20/09/2026,28/09/2026,1
+P-796,U-023,L-008,Alumno,Informática,Córdoba Capital,13/09/2026,23/09/2026,25/09/2026,5
+P-797,U-035,L-107,Alumno,Matemática,Cosquín,13/09/2026,20/09/2026,22/09/2026,8
+P-798,U-096,L-156,Alumno,Literatura,Villa María,13/09/2026,20/09/2026,15/09/2026,0
+P-799,U-030,L-125,Alumno,Idiomas,Cosquín,14/09/2026,28/09/2026,16/09/2026,0
+P-800,U-095,L-014,Alumno,Ciencias Sociales,Villa María,14/09/2026,24/09/2026,19/09/2026,0
+P-801,U-095,L-026,Alumno,Literatura,Villa María,14/09/2026,19/09/2026,17/09/2026,0
+P-802,U-101,L-154,Alumno,Matemática,Río Tercero,14/09/2026,24/09/2026,28/09/2026,5
+P-803,U-103,L-125,Alumno,Idiomas,Cosquín,14/09/2026,21/09/2026,,10
+P-804,U-096,L-060,Alumno,Ciencias Sociales,Villa María,16/09/2026,21/09/2026,21/09/2026,0
+P-805,U-015,L-195,Docente,Matemática,Cosquín,17/09/2026,27/09/2026,20/09/2026,1
+P-806,U-055,L-181,Alumno,Informática,Cosquín,18/09/2026,21/09/2026,21/09/2026,0
+P-807,U-029,L-114,Alumno,Literatura,Cosquín,18/09/2026,02/10/2026,22/09/2026,0
+P-808,U-096,L-066,Alumno,Matemática,Villa María,18/09/2026,28/09/2026,27/09/2026,0
+P-809,U-028,L-063,Alumno,Matemática,Córdoba Capital,19/09/2026,03/10/2026,06/10/2026,5
+P-810,U-021,L-198,Alumno,Matemática,Córdoba Capital,19/09/2026,24/09/2026,01/10/2026,5
+P-811,U-043,L-105,Alumno,Ciencias Sociales,Cosquín,19/09/2026,24/09/2026,26/09/2026,5
+P-812,U-082,L-135,Alumno,Informática,Villa María,20/09/2026,27/09/2026,01/10/2026,1
+P-813,U-039,L-004,Alumno,Informática,Córdoba Capital,20/09/2026,27/09/2026,,4
+P-814,U-060,L-171,Docente,Ciencias Naturales,Córdoba Capital,20/09/2026,30/09/2026,21/09/2026,3
+P-815,U-077,L-031,Docente,Administración,Villa María,21/09/2026,28/09/2026,28/09/2026,0
+P-816,U-033,L-020,Alumno,Matemática,Villa María,21/09/2026,24/09/2026,22/09/2026,0
+P-817,U-028,L-188,Alumno,Ciencias Sociales,Córdoba Capital,21/09/2026,01/10/2026,07/10/2026,6
+P-818,U-056,L-084,Alumno,Ciencias Naturales,Villa María,21/09/2026,28/09/2026,,4
+P-819,U-003,L-118,Alumno,Administración,Cosquín,21/09/2026,26/09/2026,25/09/2026,1
+P-820,U-087,L-089,Alumno,Informática,Cosquín,22/09/2026,29/09/2026,03/10/2026,4
+P-821,U-071,L-088,Alumno,General,Río Tercero,22/09/2026,02/10/2026,28/09/2026,0
+P-822,U-073,L-035,Alumno,Idiomas,Río Tercero,22/09/2026,06/10/2026,02/10/2026,0
+P-823,U-022,L-037,Docente,Idiomas,Villa María,24/09/2026,08/10/2026,27/09/2026,0
+P-824,U-071,L-011,Alumno,Ciencias Sociales,Río Tercero,24/09/2026,08/10/2026,02/10/2026,0
+P-825,U-003,L-096,Alumno,Informática,Cosquín,24/09/2026,08/10/2026,11/02/2027,1
+P-826,U-063,L-050,Docente,Informática,Cosquín,24/09/2026,29/09/2026,29/09/2026,1
+P-827,U-024,L-005,Alumno,Informática,Cosquín,24/09/2026,01/10/2026,03/10/2026,3
+P-828,U-094,L-142,Alumno,Informática,Cosquín,25/09/2026,02/10/2026,05/10/2026,6
+P-829,U-023,L-059,Alumno,Ciencias Sociales,Córdoba Capital,26/09/2026,06/10/2026,10/10/2026,6
+P-830,U-053,L-002,Alumno,Informática,Villa María,26/09/2026,06/10/2026,04/10/2026,4
+P-831,U-024,L-165,Alumno,Administración,Cosquín,26/09/2026,29/09/2026,10/10/2026,4
+P-832,U-001,L-056,Alumno,Ciencias Sociales,Río Tercero,27/09/2026,04/10/2026,06/10/2026,2
+P-833,U-098,L-180,Alumno,Informática,Cosquín,27/09/2026,04/10/2026,05/10/2026,2
+P-834,U-023,L-050,Alumno,Informática,Córdoba Capital,28/09/2026,05/10/2026,06/10/2026,7
+P-835,U-025,L-129,Alumno,Ciencias Naturales,Río Tercero,28/09/2026,03/10/2026,30/09/2026,0
+P-836,U-011,L-185,Alumno,Informática,Cosquín,29/09/2026,06/10/2026,,1
+P-837,U-038,L-162,Alumno,Administración,Cosquín,29/09/2026,09/10/2026,,7
+P-838,U-009,L-186,Alumno,Informática,Cosquín,29/09/2026,04/10/2026,05/10/2026,1
+P-839,U-077,L-054,Docente,Informática,Villa María,30/09/2026,07/10/2026,03/10/2026,0
+P-840,U-060,L-009,Docente,Informática,Córdoba Capital,30/09/2026,14/10/2026,15/10/2026,3
+P-841,U-097,L-167,Alumno,Idiomas,Río Tercero,30/09/2026,07/10/2026,01/10/2026,0
+P-842,U-016,L-009,Alumno,Informática,Villa María,01/10/2026,11/10/2026,16/10/2026,4
+P-843,U-095,L-191,Alumno,Ciencias Sociales,Villa María,01/10/2026,11/10/2026,08/10/2026,0
+P-844,U-100,L-053,Alumno,Informática,Cosquín,01/10/2026,15/10/2026,23/10/2026,3
+P-845,U-037,L-004,Alumno,Informática,Cosquín,01/10/2026,08/10/2026,09/10/2026,3
+P-846,U-077,L-018,Docente,Ciencias Sociales,Villa María,02/10/2026,16/10/2026,03/10/2026,0
+P-847,U-034,L-110,Alumno,Matemática,Cosquín,02/10/2026,07/10/2026,10/10/2026,5
+P-848,U-066,L-188,Docente,Ciencias Sociales,Villa María,03/10/2026,13/10/2026,11/10/2026,0
+P-849,U-021,L-153,Alumno,Matemática,Córdoba Capital,03/10/2026,10/10/2026,12/10/2026,6
+P-850,U-077,L-201,Docente,Literatura,Villa María,03/10/2026,06/10/2026,05/10/2026,0
+P-851,U-059,L-052,Alumno,Informática,Cosquín,04/10/2026,18/10/2026,22/10/2026,13
+P-852,U-095,L-081,Alumno,Idiomas,Villa María,04/10/2026,18/10/2026,16/10/2026,0
+P-853,U-059,L-131,Alumno,General,Cosquín,05/10/2026,12/10/2026,15/10/2026,14
+P-854,U-027,L-127,Alumno,Ciencias Naturales,Villa María,05/10/2026,12/10/2026,12/10/2026,1
+P-855,U-097,L-003,Alumno,Informática,Río Tercero,05/10/2026,19/10/2026,21/10/2026,0
+P-856,U-063,L-174,Docente,General,Cosquín,06/10/2026,20/10/2026,18/10/2026,1
+P-857,U-060,L-035,Docente,Idiomas,Córdoba Capital,07/10/2026,12/10/2026,15/10/2026,4
+P-858,U-074,L-058,Alumno,Ciencias Sociales,Río Tercero,07/10/2026,14/10/2026,18/10/2026,5
+P-859,U-069,L-170,Alumno,Ciencias Naturales,Villa María,07/10/2026,21/10/2026,28/10/2026,6
+P-860,U-039,L-093,Alumno,Informática,Córdoba Capital,08/10/2026,13/10/2026,18/10/2026,4
+P-861,U-022,L-135,Docente,Informática,Villa María,08/10/2026,15/10/2026,10/10/2026,0
+P-862,U-082,L-067,Alumno,Matemática,Villa María,08/10/2026,15/10/2026,12/10/2026,2
+P-863,U-004,L-143,Alumno,Ciencias Sociales,Río Tercero,09/10/2026,23/10/2026,16/10/2026,1
+P-864,U-101,L-138,Alumno,Informática,Río Tercero,09/10/2026,14/10/2026,16/10/2026,6
+P-865,U-068,L-111,Alumno,Matemática,Córdoba Capital,10/10/2026,24/10/2026,24/10/2026,2
+P-866,U-074,L-131,Alumno,General,Río Tercero,11/10/2026,14/10/2026,17/10/2026,6
+P-867,U-025,L-034,Alumno,Idiomas,Río Tercero,11/10/2026,18/10/2026,17/10/2026,0
+P-868,U-099,L-183,Docente,Informática,Río Tercero,12/10/2026,19/10/2026,15/10/2026,2
+P-869,U-004,L-085,Alumno,Ciencias Naturales,Río Tercero,12/10/2026,19/10/2026,15/10/2026,1
+P-870,U-045,L-198,Alumno,Matemática,Córdoba Capital,12/10/2026,17/10/2026,14/10/2026,5
+P-871,U-080,L-046,Alumno,Informática,Cosquín,12/10/2026,26/10/2026,27/10/2026,7
+P-872,U-019,L-023,Docente,Matemática,Villa María,13/10/2026,20/10/2026,20/10/2026,1
+P-873,U-063,L-031,Docente,Administración,Cosquín,13/10/2026,18/10/2026,16/10/2026,1
+P-874,U-085,L-126,Alumno,Ciencias Naturales,Cosquín,14/10/2026,24/10/2026,03/11/2026,4
+P-875,U-045,L-054,Alumno,Informática,Córdoba Capital,15/10/2026,29/10/2026,,5
+P-876,U-008,L-095,Alumno,Informática,Córdoba Capital,15/10/2026,22/10/2026,29/10/2026,9
+P-877,U-074,L-013,Alumno,Ciencias Sociales,Río Tercero,15/10/2026,22/10/2026,28/10/2026,7
+P-878,U-028,L-192,Alumno,Ciencias Sociales,Córdoba Capital,16/10/2026,21/10/2026,26/10/2026,7
+P-879,U-058,L-041,Alumno,Ciencias Naturales,Villa María,17/10/2026,22/10/2026,21/10/2026,2
+P-880,U-085,L-167,Alumno,Idiomas,Cosquín,17/10/2026,24/10/2026,26/10/2026,5
+P-881,U-087,L-136,Alumno,Informática,Cosquín,19/10/2026,29/10/2026,,5
+P-882,U-086,L-093,Alumno,Informática,Córdoba Capital,19/10/2026,29/10/2026,,0
+P-883,U-011,L-063,Alumno,Matemática,Cosquín,19/10/2026,26/10/2026,21/10/2026,1
+P-884,U-026,L-148,Alumno,Ciencias Sociales,Córdoba Capital,20/10/2026,27/10/2026,23/10/2026,2
+P-885,U-102,L-139,Alumno,Informática,Cosquín,21/10/2026,26/10/2026,28/10/2026,6
+P-886,U-086,L-095,Alumno,Informática,Córdoba Capital,21/10/2026,31/10/2026,,0
+P-887,U-020,L-168,Alumno,Idiomas,Río Tercero,21/10/2026,04/11/2026,,1
+P-888,U-100,L-200,Alumno,Literatura,Cosquín,21/10/2026,28/10/2026,,4
+P-889,U-077,L-076,Docente,Administración,Villa María,21/10/2026,28/10/2026,,0
+P-890,U-074,L-182,Alumno,Informática,Río Tercero,23/10/2026,26/10/2026,08/11/2026,8
+P-891,U-029,L-190,Alumno,Ciencias Sociales,Cosquín,24/10/2026,31/10/2026,,0
+P-892,U-004,L-049,Alumno,Informática,Río Tercero,24/10/2026,29/10/2026,,1
+P-893,U-091,L-112,Alumno,Literatura,Cosquín,25/10/2026,01/11/2026,,4
+P-894,U-052,L-115,Alumno,Literatura,Cosquín,25/10/2026,30/10/2026,,3
+P-895,U-077,L-140,Docente,Informática,Villa María,25/10/2026,08/11/2026,,0
+P-896,U-047,L-093,Docente,Informática,Villa María,26/10/2026,05/11/2026,,0
+P-897,U-031,L-049,Alumno,Informática,Córdoba Capital,26/10/2026,05/11/2026,,1
+P-898,U-003,L-083,Alumno,Ciencias Naturales,Cosquín,26/10/2026,05/11/2026,,2
+P-899,U-002,L-168,Docente,Idiomas,Córdoba Capital,26/10/2026,09/11/2026,,1
+P-900,U-012,L-009,Alumno,Informática,Córdoba Capital,26/10/2026,05/11/2026,,2
+P-901,U-089,L-014,Alumno,Ciencias Sociales,Cosquín,21/10/2026,28/10/2026,,4
+P-902,U-089,L-103,Alumno,Ciencias Sociales,Cosquín,18/10/2026,01/11/2026,,4
+P-903,U-012,L-032,Alumno,Administración,Córdoba Capital,22/10/2026,29/10/2026,,2
+P-904,U-005,L-007,Docente,Informática,Río Tercero,20/10/2026,27/10/2026,,0
